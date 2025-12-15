@@ -1,4 +1,5 @@
 import { BecomeTenant } from "@/components/pages/tenants/BecomeTenant";
+import { CertificatePreview } from "@/components/pages/tenants/CertificatePreview";
 import { Faqs } from "@/components/pages/tenants/Faqs";
 import { GreatOffer } from "@/components/pages/tenants/GreatOffers";
 import { HowToGetStarted } from "@/components/pages/tenants/HowToGetStarted";
@@ -18,6 +19,7 @@ export default function Tenants() {
       <GreatOffer/>
       <Faqs/>
       <HpInNutshell/>
+      <CertificatePreview/>
     </main>
   );
 }

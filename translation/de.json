@@ -224,7 +224,7 @@
       }
     }
   },
-  "homeTenantCertificatePreviewSection": {
+  "certificatePreview": {
     "title": "Erstellen Sie Ihr eigenes Zertifikat",
     "bulletPoints": [
       "Erstellen Sie jetzt ein vollständiges Profil und generieren Sie Ihr Zertifikat.",

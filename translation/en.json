@@ -217,7 +217,7 @@
       }
     }
   },
-  "homeTenantCertificatePreviewSection": {
+  "certificatePreview": {
     "title": "Get started & create your own certificate",
     "bulletPoints": [
       "Gain a full profile now and create your certificate.",
