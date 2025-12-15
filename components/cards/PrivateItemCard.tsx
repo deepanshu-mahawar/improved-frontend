@@ -1,30 +1,35 @@
 import Image, { StaticImageData } from "next/image";
+
 import {
   ContentWrapper,
   Description,
   ImageWrapper,
-  MainWrapper,
+  PrivateItemCardWrapper,
   Title,
 } from "./styled";
 
-interface ThisIsHowCardProps {
+interface PrivateItemCardProps {
   image: string | StaticImageData;
   title: string;
   description: string;
 }
 
-export const ThisIsHowCard = ({ image, title, description }: ThisIsHowCardProps) => {
+export const PrivateItemCard = ({
+  image,
+  title,
+  description,
+}: PrivateItemCardProps) => {
   return (
-    <MainWrapper>
+    <PrivateItemCardWrapper>
       <ImageWrapper>
-        <Image src={image} alt="#" width={100} height={100}/>
+        <Image src={image} alt="#" className="image" width={100} height={100} />
       </ImageWrapper>
 
       <ContentWrapper>
         <Title>{title}</Title>
         <Description>{description}</Description>
       </ContentWrapper>
-    </MainWrapper>
+    </PrivateItemCardWrapper>
   );
 };
 

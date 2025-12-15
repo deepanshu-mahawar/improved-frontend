@@ -41,7 +41,7 @@
     },
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homeTenantTestimonialSection": {
+  "Testimonial": {
     "title": "Das sagen unsere Nutzer",
     "testimonialCard1": {
       "name": "Sophie M.",
@@ -109,7 +109,7 @@
       "testimonial": "HousingPass ist ein echter Wendepunkt für alle, die eine Wohnung mieten möchten. Die sichere Datenverarbeitung und der Verifizierungsprozess haben mir großes Vertrauen in meine Bewerbungen gegeben."
     }
   },
-  "homeTenantPrivateDataSection": {
+  "PrivateData": {
     "title": "Wir behandeln deine privaten Daten zu 100 % sicher.",
     "cards": {
       "card1": {
@@ -127,7 +127,7 @@
     },
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homeTenantGreatOfferSection": {
+  "GreatOffers": {
     "title": "HousingPass bietet ein großartiges Produkt mit vielen Vorteilen",
     "cards": {
       "card1": {
@@ -178,7 +178,7 @@
       }
     }
   },
-  "homeTenantFaqSection": {
+  "Faqs": {
     "title": "FAQ",
     "buttonText": "Mehr anzeigen",
     "faqs": {
@@ -204,7 +204,7 @@
       }
     }
   },
-  "homeTenantHousingpassInNutshellSection": {
+  "HpInNutshell": {
     "title": "HousingPass auf einen Blick",
     "cards": {
       "card1": {

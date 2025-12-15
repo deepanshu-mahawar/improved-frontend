@@ -41,7 +41,7 @@
     },
     "buttonText": "Get Housingpass Now"
   },
-  "homeTenantTestimonialSection": {
+  "Testimonial": {
     "title": "Thats what our users says",
     "testimonialCard1": {
       "name": "Sophie M.",
@@ -109,7 +109,7 @@
       "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
     }
   },
-  "homeTenantPrivateDataSection": {
+  "PrivateData": {
     "title": "We handle your private data in 100% secure way.",
     "cards": {
       "card1": {
@@ -127,7 +127,7 @@
     },
     "buttonText": "Get Housingpass Now"
   },
-  "homeTenantGreatOfferSection": {
+  "GreatOffers": {
     "title": "HousingPass offers a great product with many advantages",
     "cards": {
       "card1": {
@@ -171,7 +171,7 @@
       }
     }
   },
-  "homeTenantFaqSection": {
+  "Faqs": {
     "title": "FAQ",
     "buttonText": "See more",
     "faqs": {
@@ -197,7 +197,7 @@
       }
     }
   },
-  "homeTenantHousingpassInNutshellSection": {
+  "HpInNutshell": {
     "title": "HousingPass in a nutshell",
     "cards": {
       "card1": {

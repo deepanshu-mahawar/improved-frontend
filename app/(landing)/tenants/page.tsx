@@ -1,5 +1,10 @@
 import { BecomeTenant } from "@/components/pages/tenants/BecomeTenant";
+import { Faqs } from "@/components/pages/tenants/Faqs";
+import { GreatOffer } from "@/components/pages/tenants/GreatOffers";
 import { HowToGetStarted } from "@/components/pages/tenants/HowToGetStarted";
+import { HpInNutshell } from "@/components/pages/tenants/HpInNutshell";
+import { PrivateData } from "@/components/pages/tenants/PrivateData";
+import { Testimonials } from "@/components/pages/tenants/Testimonials";
 import { ThisIsHow } from "@/components/pages/tenants/ThisIsHow";
 
 export default function Tenants() {
@@ -8,6 +13,11 @@ export default function Tenants() {
       <BecomeTenant />
       <HowToGetStarted />
       <ThisIsHow />
+      <Testimonials />
+      <PrivateData/>
+      <GreatOffer/>
+      <Faqs/>
+      <HpInNutshell/>
     </main>
   );
 }
