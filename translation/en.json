@@ -1,0 +1,1644 @@
+{
+  "Header": {
+    "menu": {
+      "tenants": "Tenants",
+      "landlords": "Landlords",
+      "security": "Data Security"
+    },
+    "signIn": "Sign In",
+    "loading": "Loading..."
+  },
+  "becomeTenant": {
+    "title": "Become the tenant of choice within seconds",
+    "bulletPoint1": "Gain full control over sharing your personal data.",
+    "bulletPoint2": "Reduce effort of housing applications, get faster.",
+    "bulletPoint3": "Get your entrance card for your dream-house.",
+    "bulletPoint4": "Conduct a risk-free assessment with HousingPass.",
+    "buttonText": "Get Housingpass Now"
+  },
+  "howToGetStarted": {
+    "title": "How to get started?",
+    "bulletPoint1": "Create your profile.",
+    "bulletPoint2": "Connect your bank account.",
+    "bulletPoint3": "Verify your ID.",
+    "bulletPoint4": "Get rated and share your HousingPass."
+  },
+  "ThisIsHow": {
+    "title": "This is how housingpass works.",
+    "ThisIsHowCard": {
+      "card1": {
+        "title": "Online Dashboard",
+        "description": "Create an application-profile in your online-Dashboard, to disclose all necessary details to landlords on one page. Data is secure and you decide who will receive it."
+      },
+      "card2": {
+        "title": "Import your bank & Id",
+        "description": "We encourage you to add our bank history and ID document in order to pull out relevant data and verify your legitimacy. Much more secure and convenient than sharing this info manually."
+      },
+      "card3": {
+        "title": "Create & share your housingPass",
+        "description": "We assess and evaluate your data and create both a digital wallet as well as a shareable pdf certificate. It contains all data and gives landlords already an overview on the quality of the provided information."
+      }
+    },
+    "buttonText": "Get Housingpass Now"
+  },
+  "homeTenantTestimonialSection": {
+    "title": "Thats what our users says",
+    "testimonialCard1": {
+      "name": "Sophie M.",
+      "location": "Germany",
+      "testimonial": "The service was fast and reliable. I had my tenant's background check done within hours, and the report was incredibly detailed. I highly recommend it for landlords who want peace of mind!"
+    },
+    "testimonialCard2": {
+      "name": "Lukas T.",
+      "location": "Young Professional",
+      "testimonial": "As a young professional moving to a new city, HousingPass made the rental process smooth and efficient. The verification process gave landlords confidence in my application."
+    },
+    "testimonialCard3": {
+      "name": "Anna S.",
+      "location": "Freelancer",
+      "testimonial": "I love how HousingPass puts me in control of my personal data. I can easily share my verified information with landlords, making the rental process transparent and trustworthy."
+    },
+    "testimonialCard4": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard5": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard6": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard7": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard8": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard9": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard10": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard11": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard12": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    },
+    "testimonialCard13": {
+      "name": "Markus R.",
+      "location": "Entrepreneur",
+      "testimonial": "HousingPass is a game-changer for anyone looking to rent a property. The platform's secure data handling and verification process made me feel confident in my rental applications."
+    }
+  },
+  "homeTenantPrivateDataSection": {
+    "title": "We handle your private data in 100% secure way.",
+    "cards": {
+      "card1": {
+        "title": "Data processing",
+        "description": "We process data in an anonymous way and ensure also data compliance whilst collaborating with 3rd party services that enable access to your personal data. Nothing will be stored outside of our database."
+      },
+      "card2": {
+        "title": "Hosted on servers in Europe",
+        "description": "We store all data in a GDPR compliant way on servers in the European Union and hence fulfill to the GDPR regime in Europe."
+      },
+      "card3": {
+        "title": "You control your data",
+        "description": "You as a tenant can decide which data is stored, submitted or deleted in the HousingPass application. You can allow or restrict access and manage your data-profile in a secure way towards your potential landlords."
+      }
+    },
+    "buttonText": "Get Housingpass Now"
+  },
+  "homeTenantGreatOfferSection": {
+    "title": "HousingPass offers a great product with many advantages",
+    "cards": {
+      "card1": {
+        "title": "Network",
+        "description": [
+          "HousingPass connects property managers, landlords, and tenants through a secure and efficient digital platform. Key networking features include:",
+          "Verified Connections - Connect only with authenticated landlords and tenants.",
+          "Real-time Data Sharing - Share tenant scores and verification details instantly.",
+          "Seamless Integrations - Integrate with property management systems for smooth operations."
+        ]
+      },
+      "card2": {
+        "title": "Features",
+        "description": [
+          "Automated Tenant Scoring.",
+          "Fraud Detection.",
+          "Document Verification.",
+          "Compliance Ready."
+        ]
+      },
+      "card3": {
+        "title": "Pre-qualified Partners",
+        "description": ["Certified Background Check Providers.", "Legal Compliance Solutions."]
+      },
+      "card4": {
+        "title": "Data Security",
+        "description": [
+          "Secure Cloud Storage.",
+          "Compliance with GDPR.",
+          "Automatic Data Deletion.",
+          "Access Control & Encryption."
+        ]
+      },
+      "card5": {
+        "title": "Costs",
+        "description": ["Subscription Plans.", "Pay-Per-Verification.", "Custom Pricing."]
+      },
+      "card6": {
+        "title": "Integrated Certificates",
+        "description": ["GDPR & Data Protection.", "ISO 27001.", "Tenant Verification Badges."]
+      }
+    }
+  },
+  "homeTenantFaqSection": {
+    "title": "FAQ",
+    "buttonText": "See more",
+    "faqs": {
+      "faq1": {
+        "question": "How can I sign up?",
+        "answer": "You can sign up using the 'Get HousingPass Now' button visible in different sections on the homepage."
+      },
+      "faq2": {
+        "question": "How much does it cost?",
+        "answer": "After signing up, you will be redirected to the pricing section where you can see the latest updates."
+      },
+      "faq3": {
+        "question": "How can I delete the data?",
+        "answer": "Your data will be deleted once you choose to close your profile. We also automatically delete data within 3 months."
+      },
+      "faq4": {
+        "question": "When do I get the results?",
+        "answer": "After the verification of your profile and KYC documents, your results will be generated."
+      },
+      "faq5": {
+        "question": "What IT-partners do you have?",
+        "answer": "We will disclose that list shortly."
+      }
+    }
+  },
+  "homeTenantHousingpassInNutshellSection": {
+    "title": "HousingPass in a nutshell",
+    "cards": {
+      "card1": {
+        "title": "Founded in 2023"
+      },
+      "card2": {
+        "title": "Bank access in 29 countries"
+      },
+      "card3": {
+        "title": "1000+ users per month"
+      },
+      "card4": {
+        "title": "10,000+ landlords"
+      },
+      "card5": {
+        "title": "Based in Cologne"
+      }
+    }
+  },
+  "homeTenantCertificatePreviewSection": {
+    "title": "Get started & create your own certificate",
+    "bulletPoints": [
+      "Gain a full profile now and create your certificate.",
+      "Share with landlords and get accepted.",
+      "Let how we score your profile.",
+      "Copy-secured pdf that can be verified online."
+    ],
+    "buttonText": "Get Housingpass Now"
+  },
+  "Footer": {
+    "question": "Do you have any questions? Feel free to reach out.",
+    "email": "support@housingpass.com",
+    "address": "Menu HRB 116464",
+    "companyLabel": "Company",
+    "companyMenu": {
+      "about": "About us"
+    },
+    "policyLabel": "Policy",
+    "policyMenu": {
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "customerCareLabel": "Customer Care",
+    "customerCareMenu": {
+      "imprint": "Imprint"
+    }
+  },
+  "homeLandlordSecureQuickSection": {
+    "title": "Secure a quick 180° screening of global tenants for free.",
+    "bulletPoint1": "Fast, efficient and fully automated process.",
+    "bulletPoint2": "In-depth standardized screening and decision of global tenants.",
+    "bulletPoint3": "Connectivity to your current systems.",
+    "bulletPoint4": "No costs at all.",
+    "buttonText": "Get Housingpass Now"
+  },
+  "homeLandlordChallengesSection": {
+    "title": "Challenges as landlord or agent.",
+    "bulletPoint1": "No international standards for applicants.",
+    "bulletPoint2": "Different document types on tenant side.",
+    "bulletPoint3": "Time consuming work that is not rewarded.",
+    "bulletPoint4": "No fully enabled digital processes in the market."
+  },
+  "homeLandlordEasyToUseSection": {
+    "title": "Easy to use and fast 4 step-process.",
+    "bulletPoint1": "Ask tenant via email to complete HousingPassProfile.",
+    "bulletPoint2": "Tenant provides different data points within minutes.",
+    "bulletPoint3": "HousingPass analyses and ranks data with Certificate towards tenant.",
+    "bulletPoint4": "Renter supplies HousingPass digitally through email or PDF to your ERP system."
+  },
+  "homelandlordThisIsHowSection": {
+    "title": "This is how HousingPass Works",
+    "cards": {
+      "card1": {
+        "title": "Tenant Profile",
+        "description": "Tenant opens a HousingPass account and fills out the basic questionnaire on the HousingPass website."
+      },
+      "card2": {
+        "title": "Bank API",
+        "description": "HousingPass verifies financial strength and salary situation, analyzes rent payment history, and checks credit risks for the landlord."
+      },
+      "card3": {
+        "title": "ID-Check",
+        "description": "International passport verification and anti-fraud / KYC compliant process."
+      },
+      "card4": {
+        "title": "Document Center",
+        "description": "Tenant provides and adds relevant data. HousingPass analyzes and stores data in a GDPR-compliant manner. Landlord has access to all data."
+      }
+    },
+    "buttonText": "Get Housingpass Now"
+  },
+  "homeLandlordOnboardingCenterSection": {
+    "title": "Onboarding Center - How to start with us",
+    "bulletPoint1": "Get an account and become a HousingPass Landlord / Partner.",
+    "bulletPoint2": "Invite your tenants to HousingPass (via email, website widget, or member logo).",
+    "bulletPoint3": "Work with selected integrated software partners (Enterprise solution).",
+    "buttonText": "Get Housingpass Now"
+  },
+  "homeDataSecuritySection": {
+    "title": "Data Security",
+    "paragraph1": "Data security is a key pillar of the strategy and vision of HousingPass. By prioritizing secure data handling, we reinforce our reputation as a reliable and future-proof verification service. Our approach ensures seamless, transparent, and risk-free transactions, positioning us as a trusted partner in the real estate sector.",
+    "paragraph2": "At HousingPass we prioritize the security and privacy of your data. Our platform ensures that all customer information is handled with the highest level of protection, complying with industry best practices and regulatory standards.",
+    "paragraph3": "We are aware that we handle sensitive personal and financial information, making it our responsibility to ensure its protection against unauthorized access, fraud, and data breaches. Implementing strict security measures—such as encryption, secure authentication, and compliance with GDPR and the German DSGVO—helps us build trust with both tenants and landlords while ensuring legal compliance.",
+    "buttonText": "Get Housingpass Now"
+  },
+  "homeSecurityLayerSection": {
+    "title": "Data Security Layers",
+    "bulletPoint1": "Multi-layered security with industry-standard encryption and compliance with global security norms.",
+    "bulletPoint2": "Secure data storage with encrypted data hosted in PCI-DSS certified local data centers.",
+    "bulletPoint3": "Advanced authentication using OAuth2, firewalls, and SSL for secure access.",
+    "bulletPoint4": "User-exclusive access ensuring only users can view their encrypted data.",
+    "bulletPoint5": "GDPR compliance providing full data control with easy deletion options.",
+    "bulletPoint6": "User data protection ensuring no unauthorized access and maximum privacy."
+  },
+  "homeEncryptionSection": {
+    "title": "Encryption, Securing Your Data",
+    "paragraph1": "At HousingPass, we prioritize the security and confidentiality of your data. To ensure maximum protection, we implement industry-standard encryption techniques across our platform.",
+    "paragraph2": "By using these robust encryption measures, HousingPass safeguards your personal information from cyber threats, ensuring your data remains secure, private, and protected at all times.",
+    "buttonText": "Get Housingpass Now"
+  },
+  "homeSecurityMeasureSection": {
+    "title": "Our Security Measures",
+    "cards": {
+      "card1": {
+        "title": "Secure Hosting & Data Storage",
+        "description": [
+          "Our servers are hosted in Germany, ensuring compliance with strict GDPR data protection laws.",
+          "All Personally Identifiable Information (PII) is securely stored in the cloud with industry-leading encryption and security protocols."
+        ]
+      },
+      "card2": {
+        "title": "Data Encryption & Access Control",
+        "description": [
+          "All sensitive data is encrypted both in transit and at rest using AES-256 and TLS 1.2+ protocols.",
+          "Strict access control measures ensure that only authorized personnel can access customer data."
+        ]
+      },
+      "card3": {
+        "title": "Data Retention & Automatic Deletion",
+        "description": [
+          "We follow a data minimization policy, ensuring that we store customer information only as long as necessary.",
+          "All documents provided by the customer are automatically deleted after 120 days, reducing the risk of unauthorized access.",
+          "Users are in control of their data regarding sharing and deletion."
+        ]
+      },
+      "card4": {
+        "title": "Compliance & Regulatory Standards",
+        "description": [
+          "We comply with GDPR and other relevant data protection regulations to ensure data security and privacy.",
+          "Regular security audits and penetration testing help us identify and mitigate vulnerabilities."
+        ]
+      }
+    },
+    "buttonText": "Get Housingpass Now"
+  },
+  "homePrivateSection": {
+    "title": "Keep Your Info Private and Encrypted",
+    "cards": {
+      "card1": {
+        "title": "End-to-End Encryption",
+        "description": "All sensitive data, including personal documents and financial information, is encrypted both in transit and at rest."
+      },
+      "card2": {
+        "title": "AES-256 Encryption",
+        "description": "We use AES-256 bit encryption to secure all stored data, ensuring compliance with GDPR and industry best practices."
+      },
+      "card3": {
+        "title": "SSL/TLS Protocols",
+        "description": "All data transmitted between users and our servers is encrypted using SSL/TLS (Secure Socket Layer/Transport Layer Security), preventing unauthorized interception."
+      },
+      "card4": {
+        "title": "Hashed & Salted Credentials",
+        "description": "User passwords and authentication tokens are stored using one-way hashing algorithms with salting, making them highly resistant to breaches."
+      },
+      "card5": {
+        "title": "Strict Access Control",
+        "description": "Encrypted data is only accessible by authorized personnel under strict security policies, ensuring no unauthorized access."
+      },
+      "card6": {
+        "title": "Secure Data Management",
+        "description": "All processes are regularly audited to ensure compliance with international security standards and maintain data integrity."
+      }
+    },
+    "buttonText": "Get Housingpass Now"
+  },
+  "homePrivacyMatterSection": {
+    "title": "Your Privacy Matters",
+    "text1": {
+      "before": "We are committed to transparency and trust. If you have any questions regarding your data security, please feel free to contact us at",
+      "linkText": "support@housingpass.com"
+    },
+    "text2": {
+      "before": "We prioritize your privacy and security. Our SSL Certificate Report, provided by Qualys SSL Labs, offers a detailed overview of our website encryption standards and certificate validity, affirming our dedication to protecting your information. You can view the full report here",
+      "linkText": "HousingPass SSL Certificate Report"
+    }
+  },
+  "about": {
+    "header": "About Us",
+    "sections": [
+      {
+        "title": "How it started",
+        "description": "Housingpass was founded in 2023 by Christoph & Sven, two furnished apartment and real estate professionals who gained extensive knowledge in tenant screening for their own properties and third-party properties across the European market. One major pain-point they faced was a lack of security and trust when selecting the right tenant, mostly due to missing data and documentation provided by agencies, platforms, or real estate advertisement portals."
+      },
+      {
+        "title": "Product",
+        "description": "HousingPass offers a service that provides an easy, fast, fair, and transparent data-driven approach to assess and qualify potential tenants for landlords, property managers, and agents."
+      },
+      {
+        "title": "Vision",
+        "description": "HousingPass will become a mandatory go-to tool that simplifies the challenging housing market for both tenants and property owners."
+      },
+      {
+        "title": "Team",
+        "description": "The team has extensive experience in fintech and proptech marketplaces for well-known tech companies. Over the past years, the founders screened more than 5,000 tenants and identified a crucial need in the housing market, especially for internationals relocating to other countries."
+      },
+      {
+        "title": "Location",
+        "description": "The company has offices in Berlin and Cologne and partners with leading property management companies in the German market."
+      }
+    ]
+  },
+  "imprint": {
+    "header": "Imprint",
+    "section1": {
+      "title": "Information according to § 5 TMG",
+      "description1": "Housing Connect GmbH",
+      "description2": "Belvederestr 40",
+      "description3": "50933 Cologne",
+      "description4": "Commercial register: HRB 116464",
+      "description5": "Register court: Local Court of Cologne",
+      "description6": "Represented by: Christoph Kasper"
+    },
+    "section2": {
+      "title": "Contact",
+      "descriptionBefore": "Phone: +49 (0)152 52450331",
+      "descriptionAfter": "Email: support@housingpass.com"
+    },
+    "section3": {
+      "title": "Responsible for editorial content",
+      "description1": "Christoph Kasper",
+      "description2": "Belvederestr 40",
+      "description3": "50933 Cologne"
+    },
+    "section4": {
+      "title": "EU Online Dispute Resolution",
+      "descriptionBefore": "The European Commission provides a platform for online dispute resolution (ODR):",
+      "descriptionAfter": "You can find our email address above in the imprint."
+    },
+    "section5": {
+      "title": "Consumer dispute resolution/Universal arbitration board",
+      "descriptionBefore": "We are not willing or obligated to participate in dispute resolution procedures before a consumer arbitration board.",
+      "descriptionAfter": "Source:"
+    }
+  },
+  "terms&conditions": {
+    "header": "Terms & Conditions",
+    "title": "General Terms and Conditions (GTC) for the use of our platform.",
+    "introduction": "Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you. This policy is intended to help you understand.",
+    "section1": {
+      "title": "1. Scope of Application",
+      "description1": " These General Terms and Conditions (hereinafter GTC) govern the use of the Housingpass platform (www.housingpass.com) by registered users and visitors.",
+      "description2": "The provider of the platform is Housing Connect GmbH, Belvederestr. 40, 50933 Cologne, Germany (hereinafter referred to as Housing Connect, Housingpass or we).",
+      "description3": "The use of the platform is permitted exclusively on the basis of these GTC. Deviating terms and conditions of the user do not apply unless they have been expressly confirmed by Housingpass.",
+      "description4": "The current version of the GTC can be accessed at any time on our website."
+    },
+    "section2": {
+      "title": "2. Service description",
+      "description1": "Housing Connect GmbH operates the digital platform Housingpass at www.housingpass.com or housingpass.com, which enables private and commercial users to create and manage a digital application portfolio for housing applications and to submit them to landlords or property managers.",
+      "description2": "Furthermore, landlords can use a separate user account to access the collected data records, application folders and profiles, documents from tenants, archive them or manage them for marketing purposes.",
+      "description3": "The use of the platform can be made against payment or free of charge, depending on the services selected. The chargeable functions and prices can be viewed on the Housingpass website",
+      "description4": "The application folder is made available to users either digitally as a storable PDF file or in digital form in the online user environment. It primarily contains information that is required for a housing application.",
+      "description5": "For the purpose of analyzing, describing and verifying the financial circumstances (e.g. proof of income, proof of rent payment) and identity of users, Housingpass may involve external service providers. Such checks are carried out by third-party providers who are independently responsible for processing this data. Separate data protection provisions apply to this, which can be viewed during the ordering process.",
+      "description6": "Housingpass has no influence on the technical data provided by external financial service providers or identity verification services. Users are solely responsible for the accuracy, completeness and timeliness of the information contained in the application file.",
+      "description7": "Housingpass does not check the content of the uploaded or generated content. It is the responsibility of the user to ensure that all information provided is accurate and legally permissible",
+      "description8": "Housingpass endeavors to ensure the trouble-free operation of the platform. However, permanent availability cannot be guaranteed. Maintenance work, technical restrictions or external factors can lead to temporary interruptions.",
+      "description9": "The use of certain functions requires the user to have a bank account activated for online banking. For this purpose, the user must authenticate himself via his online banking access data so that external financial service providers can access and process the relevant account information.",
+      "description10": "Housingpass itself does not provide an account information service (hereinafter KID). The KID is provided by the third-party provider GoCardless Ltd (hereinafter GoCardless), which acts as an independent controller within the meaning of the GDPR. The separate terms and conditions and data protection provisions of GoCardless apply, about which the user is informed during the ordering process.",
+      "description11": "Housingpass does not carry out any identity checks itself. To verify passport and ID card data, Housingpass uses the third-party provider Veriff OÜ (hereinafter Veriff), which acts as an independent controller within the meaning of the GDPR. Identity verification is carried out by comparing the ID documents uploaded by the user with biometric features and other Veriff verification mechanisms. Veriffs separate terms and conditions and data protection provisions apply, which the user is informed of during the ordering process.",
+      "description12": "The online platform is subject to continuous further development. Housingpass reserves the right to add new functions, modify or discontinue existing functions in order to optimize the service and comply with legal requirements."
+    },
+    "section3": {
+      "title": "3. Conclusion of contract and conditions of use",
+      "subsection1": {
+        "subTitle": "Registration and conclusion of contract",
+        "description": "Registration and conclusion of contract The use of Housingpass requires the user to register. The contract for the use of the platform is concluded by.",
+        "bulletPoint": "the confirmation of registration or ordering a paid service (e.g. identity check, creation of the application folder or credit scores)."
+      },
+
+      "subsection2": {
+        "subTitle": "Orders subject to a charge",
+        "description": "The ordering of chargeable services takes place via the designated ordering process. By clicking on the Buy now button, the user submits a binding offer to purchase the selected service. Housingpass accepts this offer by",
+        "bulletPoint1": "the application folder is generated and made available.",
+        "bulletPoint2": "the identity check is carried out or.",
+        "bulletPoint3": "the credit scores are retrieved and processed."
+      },
+      "subsection3": {
+        "subTitle": "No right of withdrawal after provision of the digital service",
+        "description1": "In accordance with § 356 para. 5 BGB, the statutory right of withdrawal for digital services expires as soon as Housingpass has begun immediate fulfillment of the contract and the user has previously expressly agreed that he/she loses his/her right of withdrawal.",
+        "description2": "In concrete terms, this means: As soon as the user orders a chargeable service and this has been technically triggered (e.g. verification by Veriff, creation of the application portfolio or calculation of the score), revocation or refund is no longer possible, as the service has been provided irrevocably. Before completing the order, the user is expressly informed that.",
+        "bulletPoint1": "the service is provided immediately after the order is placed.",
+        "bulletPoint2": "his right of withdrawal expires at the beginning of the provision of the service.",
+        "bulletPoint3": "he must actively confirm this before the order is completed."
+      },
+      "subsection4": {
+        "subTitle": "Right of withdrawal for services not yet rendered",
+        "description1": "If the user has purchased a chargeable service that has not yet been provided, they have the right to withdraw from this contract within 14 days without giving any reason. The withdrawal period begins with the conclusion of the contract. To exercise the right of withdrawal, the user must send a clear declaration by e-mail or letter to:",
+        "description2": "Housing Connect GmbH Belvederestr",
+        "description3": "40 50933 Cologne",
+        "description4": "E-mail: @housingpass.com",
+        "description5": "To meet the withdrawal deadline, it is sufficient for the user to send the notification of exercising the right of withdrawal before the deadline expires."
+      },
+      "subsection5": {
+        "subTitle": "Consequences of revocation",
+        "description1": "If the contract is revoked within the revocation period, Housingpass will refund all payments made by the user if the service has not yet been provided.",
+        "description2": "However, if the user has requested that the service already begins during the withdrawal period (e.g. verification, score creation, application folder), the user is obliged to pay for the service already provided in full or in part. The calculation is made as follows.",
+        "bulletPoint1": "If the service has been provided in full, no refund will be made.",
+        "bulletPoint2": "If the service has been provided in part, an appropriate amount corresponding to the proportion of the service provided shall be due."
+      },
+      "subsection6": {
+        "subTitle": "Sample withdrawal form",
+        "description1": "If a right of withdrawal exists, the user can use the following sample withdrawal form:",
+        "description2": "I/we () hereby revoke the contract for the purchase of the following service ():",
+        "description3": "Ordered on (): ___________ / Received on (): ___________",
+        "description4": "Name of the consumer(s): ___________",
+        "description5": "Address of the consumer(s): ___________",
+        "description6": "Signature of the consumer(s) (only for notification on paper): ___________",
+        "description7": "Date: ___________",
+        "description8": "(*) Delete as appropriate."
+      }
+    },
+    "section4": {
+      "title": "4. Prices, payment and invoicing",
+      "description1": "The use of certain services on Housingpass is subject to a charge. The applicable prices can be viewed on our website and are displayed transparently to the user before a chargeable order is placed.",
+      "description2": "Payments are processed by the external payment service provider Stripe Payments Europe, Limited (hereinafter Stripe), based at 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, D02 H210, Ireland. Stripe acts as an independent controller within the meaning of the GDPR. The use of Stripe is subject to Stripe's separate terms and conditions and privacy policy, which can be viewed during the ordering process.",
+      "description3": "The user agrees to the transmission of his payment data to Stripe for payment processing. Housingpass itself does not store complete payment data, but transmits it directly to Stripe for processing.",
+      "description4": "Payment is due immediately upon completion of the order. The following payment methods can be offered - depending on availability and region:",
+      "bulletPoint1": "Credit and debit cards (e.g. Visa, Mastercard, American Express)",
+      "bulletPoint2": "SEPA Direct Debit Scheme",
+      "bulletPoint3": "Apple Pay, Google Pay",
+      "bulletPoint4": "Other payment methods supported by Stripe",
+      "description5": "If payment is made by SEPA direct debit, the user shall issue a corresponding mandate to Stripe. The direct debit shall be made in accordance with the applicable SEPA regulations.",
+      "description6": "In the event of non-payment or chargebacks, we reserve the right to block access to chargeable services until the outstanding payment has been settled. All fees arising from chargebacks or failed payment attempts shall be borne by the user.",
+      "description7": "In the case of certain special promotions or vouchers, the respective separate terms of use apply, which can be viewed during the ordering process. Vouchers are non-transferable and cannot be exchanged for cash.",
+      "description8": "Invoices are made available to the user in electronic form by e-mail or via the user account on Housingpass.",
+      "description9": "Housingpass reserves the right to change the prices for future services at any time. However, price changes do not affect already concluded contracts or current fee-based services."
+    },
+    "section5": {
+      "title": "5. Obligations and rights of users",
+
+      "subsection1": {
+        "subTitle": "Truthful information",
+        "description": "Users are obliged to provide correct and complete information about themselves and their uploaded documents. All data stored in the profile or in the application folder must be up-to-date. Changes to personal data must be updated immediately in the user account."
+      },
+
+      "subsection2": {
+        "subTitle": "Duty of care for access data",
+        "description": "The access data (e-mail and password) for the user account must be treated confidentially. Disclosure to third parties is not permitted. If there is any suspicion that third parties have gained access to the user account, the password must be changed immediately and Housingpass must be informed."
+      },
+
+      "subsection3": {
+        "subTitle": "Responsibility for uploaded content",
+        "description": "The user bears sole responsibility for the accuracy, completeness and legality of the data uploaded or transmitted by him/her (e.g. application documents, identity documents, proof of creditworthiness)."
+      },
+
+      "subsection4": {
+        "subTitle": "Inadmissible content",
+        "description": "It is prohibited to upload or transmit content to Housingpass that:",
+        "bulletPoint1": "Contain false or misleading information.",
+        "bulletPoint2": "Infringe the rights of third parties (e.g. copyright, trademark or data protection rights).",
+        "bulletPoint3": "Are offensive, discriminatory, unlawful or immoral."
+      },
+
+      "subsection5": {
+        "subTitle": "Prohibition of improper use",
+        "description": "The use of the platform is only permitted for the intended purpose of apartment applications and related services. In particular, the following activities are prohibited:",
+        "bulletPoint1": "Automated or manual mass creation of applications with false or falsified data.",
+        "bulletPoint2": "Attempts to circumvent the platform's security mechanisms.",
+        "bulletPoint3": "Unauthorized use or disclosure of content and data of other users."
+      },
+
+      "subsection6": {
+        "subTitle": "Deletion or blocking in case of violation",
+        "description1": "Housingpass reserves the right, in the event of a breach of these GTC, to remove the user's content,",
+        "description2": " block the user account temporarily or permanently,",
+        "description3": "Take legal action if necessary."
+      },
+
+      "subsection7": {
+        "subTitle": "Indemnification from third-party claims",
+        "description": "If the rights of third parties are infringed by the use of Housingpass, the user indemnifies Housingpass against all claims arising from this (including the costs of legal defense)."
+      },
+
+      "subsection8": {
+        "subTitle": "Liability for use of the account",
+        "description": "The user is responsible for all actions taken via their account, unless they can prove that unauthorized use occurred through no fault of their own."
+      },
+
+      "subsection9": {
+        "subTitle": "Data protection and confidential use",
+        "description": "Housingpass may only be used within the framework of the statutory provisions. Use of the platform for data analysis purposes, commercial purposes or to collect personal data of other users is not permitted without express permission."
+      }
+    },
+    "section6": {
+      "title": "6. Data protection and data processing",
+
+      "subsection1": {
+        "subTitle": "Responsibility for data processing",
+        "description": "Housingpass processes users' personal data in accordance with the applicable data protection laws (in particular the GDPR). The processing takes place exclusively for the provision of the Housingpass services and for the fulfillment of the contracts concluded with the user."
+      },
+
+      "subsection2": {
+        "subTitle": "Legitimate interest of the landlord",
+        "description": "Landlords have a legitimate interest in receiving applicant data and storing it on Housingpass in order to make an informed rental decision. However, landlords are independently responsible for the GDPR-compliant processing, storage and deletion of this data. Housingpass accepts no responsibility for the use of tenant data by landlords outside of the platform."
+      },
+
+      "subsection3": {
+        "subTitle": "Disclosure of personal data",
+        "description": "The applicant profiles and documents created via Housingpass (e.g. proof of creditworthiness, identity verification) are only forwarded to third parties (e.g. landlords, property managers) with the express consent of the user. Housingpass does not transmit any personal data without active action by the user."
+      },
+
+      "subsection4": {
+        "subTitle": "Identity and credit check by third-party providers",
+        "description": "External service providers are involved in identity and credit checks:",
+        "bulletPoint1": "Identity verification: Veriff OÜ checks transmitted ID documents and biometric data to verify identity.",
+        "bulletPoint2": "Credit check: GoCardless Ltd. is used for account information services (KID) to process relevant financial information.",
+        "bulletPoint3": "Payment data: Stripe Ltd. is used for payment processing.",
+        "description2": "These external providers act as independent controllers in accordance with the GDPR. Their own data protection guidelines apply to their processing, which can be viewed in the ordering process."
+      },
+
+      "subsection5": {
+        "subTitle": "Obligations of the user for data processing",
+        "description": "The user undertakes to transmit only his own data or data for which he has a legal basis or the consent of the data subject. Use of the platform to store or transmit data of third parties without their consent is prohibited."
+      },
+
+      "subsection6": {
+        "subTitle": "Storage and deletion of personal data",
+        "description": "Housingpass only stores personal data for as long as is necessary for the respective purpose and deletes it at the latest after expiry of statutory retention obligations. Application documents can be removed from the user's account at any time, provided there are no legal retention obligations to the contrary. Users have the right to information, correction and deletion of their personal data."
+      },
+
+      "subsection7": {
+        "subTitle": "Right to information and right to object",
+        "description": "Users have the right to obtain information about the personal data stored about them at any time and to request its correction or deletion, provided that there are no statutory retention obligations to the contrary. In addition, consent to data processing can be revoked at any time with effect for the future."
+      },
+
+      "subsection8": {
+        "subTitle": "Data security",
+        "description": "Housingpass uses technical and organizational measures to protect personal data against unauthorized access, loss or misuse. The transmission of sensitive data is encrypted."
+      }
+    },
+    "section7": {
+      "title": "7. Contract term and termination",
+      "description1": "The contract term depends on the selected service.",
+      "description2": "Users can delete their account at any time, provided that no ongoing chargeable services are used.",
+      "description3": "Housingpass can terminate the contract without notice if the user violates essential contractual conditions. In this case, the user account and all data contained therein will be irrevocably deleted."
+    },
+    "section8": {
+      "title": "8. Availability and technical infrastructure",
+      "description1": "Housingpass endeavors to ensure high availability of the platform, but cannot guarantee uninterrupted use.",
+      "description2": "The provider is not liable for technical problems that are beyond its control (e.g. Internet providers, third-party services)."
+    },
+
+    "section9": {
+      "title": "9. Liability and warranty",
+      "subsection1": {
+        "subTitle": "Scope of liability",
+        "description": "The liability of Housingpass for slightly negligent breaches of duty is excluded, unless damages from injury to life, body or health or guarantees are concerned or claims under the Product Liability Act are affected. Furthermore, liability for the breach of obligations whose fulfillment is essential for the proper execution of the contract and on whose compliance the user may regularly rely (cardinal obligations) remains unaffected."
+      },
+      "subsection2": {
+        "subTitle": "Exclusions of liability",
+        "description": "Housingpass is not liable for damage caused by:",
+        "bulletPoint1": "Technical faults, maintenance work or system failures.",
+        "bulletPoint2": "Missing or incorrect data transmission by users or third parties.",
+        "bulletPoint3": "Incorrect or incomplete creditworthiness or identity checks by external service providers.",
+        "bulletPoint4": "Misuse of user accounts by third parties if the user has not adequately protected their access data."
+      },
+      "subsection3": {
+        "subTitle": "Liability for content and data",
+        "description": "Housingpass assumes no responsibility for the accuracy, timeliness or completeness of the content provided by users. The use of the platform is at the users own risk."
+      },
+      "subsection4": {
+        "subTitle": "Third party liability",
+        "description": "Housingpass is not liable for damages caused by external partners such as GoCardless (KID) or Veriff (identity verification). These act as independent controllers in accordance with the GDPR."
+      },
+      "subsection5": {
+        "subTitle": "Contractual limitation of liability",
+        "description": "To the extent permitted by law, the total liability of Housingpass is limited to the amount of the fees paid by the user in the last 12 months before the damage occurred."
+      }
+    },
+
+    "section10": {
+      "title": "10. Copyrights and rights of use",
+      "subsection1": {
+        "subTitle": "Rights to Housingpass and the content of the platform",
+        "description": "All content, software components, trademarks, logos, designs and other materials on Housingpass are the intellectual property of Housing Connect GmbH or its licensors. Housingpass expressly reserves all copyrights, rights of use and other intellectual property rights to the platform and its content."
+      },
+      "subsection2": {
+        "subTitle": "Use of the platform by the user",
+        "description": "The user is granted a simple, non-transferable and revocable right to use Housingpass within the scope of the intended service. Any use beyond this, in particular the reproduction, distribution, processing or commercial exploitation of the contents of the platform, is only permitted with the express written permission of Housingpass."
+      },
+      "subsection3": {
+        "subTitle": "Intellectual property of the user in uploaded content",
+        "description": "The user remains the owner of all copyrights and other property rights to the content uploaded or created by him/her (e.g. application documents, photos, personal data). However, by uploading, the user grants Housingpass a simple, worldwide, free of charge, non-exclusive right of use to store, process and make available the uploaded content for the provision of the platform."
+      },
+      "subsection4": {
+        "subTitle": "Prohibition of the infringement of third-party rights",
+        "description": "The user warrants that he/she will only upload or provide content for which he/she holds all necessary rights or for which he/she has a corresponding authorization of use. The user may not upload any content that infringes copyrights, trademark rights, personal rights or other rights of third parties."
+      },
+      "subsection5": {
+        "subTitle": "Liability and indemnification in the event of infringement of property rights",
+        "description": "If claims are asserted by third parties for infringement of copyright, trademark or other property rights due to content posted by the user, the user shall indemnify Housingpass against any claims upon first request. This also includes the costs of legal defense in a reasonable amount."
+      },
+      "subsection6": {
+        "subTitle": "Processing and storage of uploaded content",
+        "description": "The data uploaded to Housingpass will only be used in the context of contract processing and to provide the application folder. The user can remove their uploaded data at any time or request Housingpass to delete it, provided there are no legal retention obligations to the contrary."
+      },
+      "subsection7": {
+        "subTitle": "Purchase of the digital application folder",
+        "description": "With the purchase of a digital application folder, the user receives a simple right to use the created file for personal application purposes. Passing on, duplication or commercial use outside the agreed purpose is not permitted without the permission of Housingpass."
+      }
+    },
+    "section11": {
+      "title": "11. Changes to the GTC",
+      "description1": "Housingpass reserves the right to amend these GTC if this is necessary due to legal requirements, supreme court rulings, changed market conditions or technical developments. Amendments only affect the provisions concerned and do not apply retroactively.",
+      "description2": "Users will be informed of changes to the GTC by email to the address provided for notifications at least six weeks before they come into effect. The notification shall contain a reference to the significance of the changes and the right of objection.",
+      "description3": "If the user does not object to the inclusion of the new GTC within six weeks of receipt of the notification, they shall be deemed to have been accepted. The right of objection does not apply if the changes are exclusively beneficial to the user or are merely of an editorial nature.",
+      "description4": "If the user objects in due time, the contractual relationship shall continue under the previous conditions, provided that continuation is possible. If this is not the case, both parties have the right to extraordinary termination."
+    },
+
+    "section12": {
+      "title": "12. Place of jurisdiction and applicable law",
+      "description1": "The text of all provisions is subject to German law and shall be interpreted in accordance with German law. The law of the Federal Republic of Germany shall apply.",
+      "description2": "The place of jurisdiction for all disputes is Cologne, provided the user is a merchant or a legal entity under public law.",
+      "description3": "The same applies if the user has no general place of jurisdiction in Germany or domicile or if the usual place of residence is not known at the time the action is brought."
+    },
+
+    "section13": {
+      "title": "13. Final provisions",
+      "description1": "Should any provision of these GTC be invalid, the validity of the remaining provisions shall remain unaffected.",
+      "description2": "Housingpass is entitled to transfer rights and obligations arising from this contract to third parties, provided that this does not unreasonably disadvantage the user."
+    }
+  },
+  "privacyPolicy": {
+    "header": "Privacy Policy",
+    "title": "What this policy covers?",
+    "description": "Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you. This policy is intended to help you understand.",
+    "section1": {
+      "title": "1 An overview of data protection",
+      "subsection1": {
+        "title": "1.1 General information",
+        "description": "The following information will provide you with an easy to navigate overview of what will happen with your personal data when you visit this online offering. The term personal data comprises all data that can be used to personally identify you. For detailed information about the subject matter of data protection, please consult our Data Protection Declaration, which we have included beneath this copy."
+      },
+      "subsection2": {
+        "title": "1.2 Data recording on this online offering",
+        "subTitle1": "Who is the responsible party for the recording of data on this online offering (i.e., the “controller”)?",
+        "description1": "The data on this online offering is processed by the operator of the online offering, whose contact information is available under section Information about the responsible party (referred to as the controller in the GDPR) in this Privacy Policy.",
+        "subTitle2": "How do we record your data?",
+        "description2": "We collect your data as a result of your sharing of your data with us. This may, for instance, be information you enter into our contact form. Other data shall be recorded by our IT systems automatically or after you consent to its recording during your visit of our offering. This data comprises primarily technical information (e.g., web browser, operating system, or time the site was accessed). This information is recorded automatically when you access this online offering.",
+        "subTitle3": "What rights do you have as far as your information is concerned?",
+        "description3": "You have the right to receive information about the source, recipients, and purposes of your archived personal data at any time without having to pay a fee for such disclosures. You also have the right to demand that your data are rectified or eradicated. If you have consented to data processing, you have the option to revoke this consent at any time, which shall affect all future data processing. Moreover, you have the right to demand that the processing of your data be restricted under certain circumstances. Furthermore, you have the right to log a complaint with the competent supervising agency. Please do not hesitate to contact us at any time if you have questions about this or any other data protection related issues.",
+        "subTitle4": "Analysis tools and tools provided by third parties",
+        "description4": "There is a possibility that your browsing patterns will be statistically analyzed when you visit this online offering. Such analyses are performed primarily with what we refer to as analysis programs. For detailed information about these analysis programs, please consult our Data Protection Declaration below."
+      }
+    },
+    "section2": {
+      "title": "2 Hosting",
+      "description": "We are hosting the content of our online offering at the following provider.",
+      "subTitle": "2.1 External Hosting",
+      "description1": "This online offering is hosted externally. Personal data collected on this online offering are stored on the servers of the host. These may include, but are not limited to, IP addresses, contact requests, metadata and communications, contract information, contact information, names, web page access, and other data generated through a web site.",
+      "description2": "The external hosting serves the purpose of fulfilling the contract with our potential and existing customers (Art. 6(1)(b) GDPR) and in the interest of secure, fast, and efficient provision of our online services by a professional provider (Art. 6(1)(f) GDPR).",
+      "description3": "Our host(s) will only process your data to the extent necessary to fulfil its performance obligations and to follow our instructions with respect to such data.",
+      "description4": "We are using the following host(s) DigitalOcean LLC",
+      "description5": "101AvenueoftheAmericas,2ndFloor",
+      "description6": "NewYork,NY10013,USA",
+      "description7": "registered under the Data Privacy Framework, for further information please to",
+      "description8": "and for order processing please go to",
+      "description9": "Status available at",
+      "description10": "GoDaddy.com, LLC 2155 E\nGoDaddy Way, Tempe, Arizona\n85284, USA",
+      "description11": "registered under the Data Privacy Framework, for further information please go to",
+      "description12": "and for dataprocessing",
+      "description13": "Status available under",
+      "description14": "Framer B.V. Rozengracht 207B\nAmsterdam, 1016 LZ, Niederlande",
+      "description15": "for further information, see",
+      "description16": "and for order processing, see",
+      "subTitle2": "Data processing",
+      "description17": "We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our online offering visitors only based on our instructions and in compliance with the GDPR. If and to the extent that data is transferred to third countries, please refer to section 3."
+    },
+    "section3": {
+      "title": "3 General information and mandatory information",
+
+      "subsection1": {
+        "title": "3.1 Data protection",
+        "description1": "The operators of this online offering and its pages take the protection of your personal data very seriously. Hence, we handle your personal data as confidential information and in compliance with the statutory data protection regulations and this Data Protection Declaration.",
+        "description2": "Whenever you use this online offering, a variety of personal information will be collected. Personal data comprises data that can be used to personally identify you. This Data Protection Declaration explains which data we collect as well as the purposes we use this data for. It also explains how, and for which purpose the information is collected.",
+        "description3": "We herewith advise you that the transmission of data via the Internet (i.e., through e-mail communications) may be prone to security gaps. It is not possible to completely protect data against third-party access."
+      },
+
+      "subsection2": {
+        "title": "3.2 Information about the responsible party (the “controller” in the GDPR)",
+        "description1": "The data processing controller on this online offering is",
+        "description2": "Housing Connect GmbH",
+        "description3": "Belvederestr 40",
+        "description4": "50933 Koeln",
+        "description5": "Germany",
+        "description6": "Phone: +49 (0)152 52450331",
+        "description7": "E-mail: support@housingpass.com",
+        "description8": "The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g., names, e-mail addresses, etc.)."
+      },
+
+      "subsection3": {
+        "title": "3.3 Storage duration",
+        "description": "Unless a more specific storage period has been specified in this privacy policy, your personal data will remain with us until the purpose for which it was collected no longer applies. If you assert a justified request for deletion or revoke your consent to data processing, your data will be deleted, unless we have other legally permissible reasons for storing your personal data (e.g., tax or commercial law retention periods); in that case, the deletion will take place after these reasons cease to apply."
+      },
+
+      "subsection4": {
+        "title": "3.4 General information on the legal basis for data processing on this online offering",
+        "description1": "If you have consented to data processing, we process your personal data on the basis ofArt. 6(1)(a) GDPR or Art. 9 (2)(a) GDPR, if special categories of data are processed according to Art. 9 (1) DSGVO. In the case of explicit consent to the transfer of personal data to third countries, the data processing is also based on Art. 49 (1)(a) GDPR. If you have consented to the storage of cookies or to the access to information in your end device(e.g., viadevice fingerprinting),thedataprocessingisadditionally based on§25 (1)TTDSG.The consent can be revoked at any time. If your data is required for the fulfillment of a contract or for the implementation of pre-contractual measures, we process your data on the basis of Art. 6(1)(b) GDPR. Furthermore, if your data is required for the fulfillment of a legal obligation, we process it on the basis of Art. 6(1)(c) GDPR. Furthermore, the data processing may be carried out on the basis of our legitimate interest according to Art. 6(1)(f) GDPR. Information on the relevant legal basis in each individual case is provided in the following paragraphs of this privacy policy.",
+        "description2": "We use, among other technologies, tools from companies located in third-party countries that are not safe under data protection law, as well as US tools whose providers are not certified under the EU-US Data Privacy Framework (DPF). If these tools are enabled, your personal data may be transferred to and processed in these countries. We would like you to note that no level of data protection comparable to that in the EU can be guaranteed in third countries that are insecure in terms of data protection law.",
+        "description3": "We would like to point out that the US, as a secure third-party country, generally has a level of data protection comparable to that of the EU. Data transfer to the US is therefore permitted i the recipient is certified under the “EU-US Data Privacy Framework” (DPF) or has appropriate additional assurances. Information on transfers to third-party countries, including the data recipients, can be found in this Privacy Policy, in each case in connection with the description of the processing by the corresponding recipients (for the hosters used, see section 2)",
+        "description4": "Information on the registration status of individual participants under the DPF can be found here"
+      },
+
+      "subsection5": {
+        "title": "3.5 Recipients of personal data",
+        "description1": "In the scope of our business activities, we cooperate with various external parties. In some cases, this also requires the transfer of personal data to these external parties. We only disclose personal data to external parties if this is required as part of the fulfillment of a contract, if we are legally obligated to do so (e.g., disclosure of data to tax authorities), if we have a legitimate interest in the disclosure pursuant to Art. 6 (1)(f) GDPR, or if another legal basis permits the disclosure of this data. When using processors, we only disclose personal data of our customers on the basis of a valid contract on data processing. In the case of joint processing,ajointprocessingagreement is concluded.",
+        "description2": "If you actively use our Housingpass offer and use it to provide content to potential landlords, they will receive the data you have released - solely under your control."
+      },
+
+      "subsection6": {
+        "title": "3.6 Revocation of your consent to data processing",
+        "description": "Many data processing operations are only possible with your express consent. You may revoke consent you have previously granted at any time. This shall not affect the legality of data already processed prior to your revocation."
+      },
+
+      "subsection7": {
+        "title": "3.7 Right to object to data collection in special cases; right to object to direct advertising (Art. 21 GDPR)",
+        "description1": "IN THEEVENT THAT DATAAREPROCESSED ON THEBASISOFART. 6(1)(E) OR (F) GDPR,YOU HAVE THE RIGHT TO AT ANY TIME OBJECT TO THE PROCESSING OF YOUR PERSONAL DATA BASED ON GROUNDS ARISING FROM YOUR UNIQUE SITUATION. THIS ALSO APPLIES TO ANY PROFILING BASED ON THESE PROVISIONS. TO DETERMINE THE LEGAL BASIS, ON WHICH ANY PROCESSING OF DATA IS BASED, PLEASE CONSULT THIS DATA PROTECTION DECLARATION. IF YOU LOG AN OBJECTION, WE WILL NO LONGER PROCESS YOUR AFFECTED PERSONAL DATA, UNLESS WE ARE IN A POSITION TO PRESENT COMPELLING PROTECTION WORTHY GROUNDS FOR THE PROCESSING OF YOUR DATA, THAT OUTWEIGH YOUR INTERESTS, RIGHTS AND FREEDOMS OR IF THE PURPOSE OF THE PROCESSING ISTHE CLAIMING, EXERCISING OR DEFENCE ßOF LEGAL ENTITLEMENTS (OBJECTION PURSUANTTOART.21(1)GDPR).",
+        "description2": "IFYOUR PERSONAL DATAISBEING PROCESSED IN ORDER TO ENGAGEIN DIRECT ADVERTISING, YOU HAVE THE RIGHT TO OBJECT TO THE PROCESSING OF YOUR AFFECTED PERSONAL DATA FOR THE PURPOSES OF SUCH ADVERTISING ATANYTIME. THIS ALSO APPLIESTO PROFILING TO THE EXTENT THAT ITISAFFILIATED WITH SUCH DIRECTADVERTISING. IFYOU OBJECT, YOUR PERSONAL DATA WILL SUBSEQUENTLY NO LONGER BE USED FOR DIRECT ADVERTISING PURPOSES (OBJECTION PURSUANTTOART.21(2) GDPR)."
+      },
+
+      "subsection8": {
+        "title": "3.8 Right to log a complaint with the competent supervisory agency",
+        "description": "In the event of violations of the GDPR, affected individuals have the right to lodge a complaint with a supervisory authority, particularly in the member state of their habitual residence, workplace, or the place where the alleged violation occurred."
+      },
+
+      "subsection9": {
+        "title": "3.9 Right to data portability",
+        "description": "You have the right to have data that we process automatically on the basis of your consent or in fulfillment of a contract handed over to you or a third party in a commonly used, machine-readable format. A direct transfer to another controller will only occur if technically feasible."
+      },
+
+      "subsection10": {
+        "title": "3.10 Information, rectification and deletion of data",
+        "description": "Within the scope of applicable legal provisions, you have the right to receive information about your stored personal data, their origin, recipients, and the purpose of data processing at any time, as well as the right to rectification or deletion. If you have further questions, you may contact us at any time."
+      },
+
+      "subsection11": {
+        "title": "3.11 Right to restrict data processing",
+        "description": "You have the right to demand the imposition of restrictions as far as the processing of your personal data is concerned. To do so, you may contact us at any time. The right to demand restriction of processing applies in thefollowingcases:\n\tIn the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data.\n\tIf the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data instead of demanding the eradication of this data\n\tIf we do not need your personal data any longer and you need it to exercise, defend or claim legal entitlements, you have the right to demand the restriction of the processing of your personal data instead of its eradication.\n\tIf you have raised an objection pursuant to Art. 21(1) GDPR, your rights and our rights will have to be weighed against each other. As long as it has not been determined whose interests prevail, you have the right to demand a restriction of the processing of your personal data.\n\tIf you have restricted the processing of your personal data, these data - with the exception of their archiving – may be processed only subject to your consent or to claim, exercise or defend legal entitlements or to protect the rights of other natural persons or legal entities or for important public interest reasons cited by the European Union or a member state of the EU."
+      },
+
+      "subsection12": {
+        "title": "3.12 SSL and/or TLS encryption",
+        "description1": "For security reasons and to protect the transmission of confidential content, such as purchase orders or inquiries you submit to us as the online offering operator, this online offering uses either an SSL or a TLS encryption program. You can recognize an encrypted connection by checking whether the address line of the browser switches from “http://” to “https://” and also by the appearance of the lock icon in the browser line.",
+        "description2": "If SSL or TLS encryption is activated, data you transmit cannot be read by third parties."
+      },
+
+      "subsection13": {
+        "title": "3.13 Encrypted payment transactions",
+        "description1": "If you are under an obligation to share your payment information (e.g. account numberif you give us the authority to debit your bank account) with us after you have entered into a feebased contract with us, this information is required to process payments.",
+        "description2": "Payment transactions using common modes of paying (Visa/MasterCard, debit to your bank account) are processed exclusively via encrypted SSL or TLS connections. You can recognize an encrypted connection by checking whetherthe address line of the browser switches from “http://” to “https://” and also by the appearance of the lock icon in the browser line.",
+        "description3": "If the communication with us is encrypted, third parties will not be able to read the payment information you sharewith us."
+      },
+
+      "subsection14": {
+        "title": "3.14 Rejection of unsolicited e-mails",
+        "description": "We herewith object to the use of contact information published in conjunction with the mandatory information to be provided in our Site Notice to send us promotional and information material that we have not expressly requested. The operators of this online offering and its pages reserve the express right to take legal action in the event of the unsolicited sending of promotional information, for instance via SPAM messages."
+      }
+    },
+    "section4": {
+      "title": "4 Recording of data on this online offering",
+
+      "subsection1": {
+        "title": "4.1 Cookies",
+        "description1": "Our online offerings and pages use what the industry refers to as “cookies.” Cookies are small data packages that do not cause any damage to your device. They are either stored temporarily for the duration of a session (session cookies) or they are permanently archived on your device (permanent cookies). Session cookies are automatically deleted once you terminate your visit. Permanent cookies remain archived on your device until you actively delete them, or they are automatically eradicated by your web browser.",
+        "description2": "Cookies can be issued by us (first-party cookies) or by third-party companies (so-called third-party cookies). Third-party cookies enable the integration of certain services of third-party companies into online offerings (e.g., cookies for handling payment services).",
+        "description3": "Cookies have a variety of functions. Many cookies are technically essential since certain online offering functions would not work in the absence of these cookies (e.g., the shopping cart function or the display of videos). Other cookies may be used to analyze user behavior or for promotional purposes.",
+        "description4": "Cookies, which are required for the performance of electronic communication transactions, for the provision of certain functions you want to use (e.g., for the shopping cart function) or those that are necessary for the optimization (required cookies) of the online offering (e.g., cookies that provide measurable insights into the web audience), shall be stored on the basis of Art. 6(1)(f) GDPR, unless a different legal basis is cited. The operator of this online offering has a legitimate interest in the storage of required cookies to ensure the technically error-free and optimized provision of the operator’s services. If your consent to the storage of the cookies and similar recognition technologies has been requested, the processing occurs exclusively on the basis of the consent obtained (Art. 6(1)(a) GDPR and § 25 (1) TTDSG); this consent may be revoked at any time.",
+        "description5": "You have the option to set up your browser in such a manner that you will be notified any time cookies are placed and to permit the acceptance of cookies only in specific cases. You may also exclude the acceptance of cookies in certain cases or in general or activate the delete function for the automatic eradication of cookies when the browser closes. If cookies are deactivated, the functions of this online offering may be limited.",
+        "description6": "Which cookies and services are used on this online offering can be found in this privacy policy."
+      },
+
+      "subsection2": {
+        "title": "4.2 Consent with Cookie Notice & Compliance",
+        "description1": "Our online offering uses the consent technology of Cookie Notice & Compliance for GDPR to obtain your consent for the archiving of certain cookies on your device or for the use of certain technologies and for the data protection compliant documentation of the former.",
+        "description2": "Cookie Notice & Compliance for GDPR is installed locally on our servers so that a connection with third party servers does not occur. Cookie Notice & Compliance for GDPR stores a cookie in your browser to be able to allocate the granted consent and their revocation to you. The cookie stays active for 1 month. Your data is stored until you ask us to delete it, delete the consent cookie yourself or the purpose of data archiving is no longer valid. This does not affect mandatory statutory retention periods.",
+        "description3": "Cookie Notice & Compliance for GDPR is being used to obtain the consent for the use of cookies required by law. The legal basis is Art. 6(1)(c) GDPR."
+      },
+
+      "subsection3": {
+        "title": "4.3 Typeform",
+        "description1": "We have integrated Typeform on this online offering. The provider is TYPEFORM S.L., Carrer Bac de Roda, 163, 08018 Barcelona, Spain (hereinafter “Typeform”).",
+        "description2": "Typeform enables us to create online forms and integrate them into our online offering. The data you enter in our Typeform forms is stored on Typeform’s servers until you ask us to delete it, revoke any consent you have given to store it, or the purpose for storing the data no longer applies (e.g., after we have finished processing your request). Mandatory legal provisions – in particular, retention periods – remain unaffected by this.",
+        "description3": "The use of Typeform is based on Art. 6(1)(f) GDPR. The operator of this online offering has a legitimate interest in functioning online forms. If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25 (1) TTDSG, insofar the consent includes the storage of cookies or the access to information in the user’s end device (e.g., device fingerprinting) within the meaning of the TTDSG. This consent can be revoked at any time.",
+        "subsectionTitle": "Data processing",
+        "description4": "We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of the visitors of our online offering only based on our instructions and in compliance with the GDPR."
+      },
+
+      "subsection4": {
+        "title": "4.5 Registration on this online offering / usage of this service Housingpass",
+        "description1": "You have the option to register on this online offering to be able to use additional functions. We shall use the data you enter only for the purpose of using the respective offer or service you have registered for. The required information we request at the time of registration must be entered in full. Otherwise, we shall reject the registration.",
+        "description2": "To notify you of any important changes to the scope of our portfolio or in the event of technical modifications, we shall use the e-mail address provided during the registration process.",
+        "description3": "We shall process the data entered during the registration process on the basis of your consent (Art. 6(1)(a) GDPR).",
+        "description4": "The data recorded during the registration process shall be stored by us as long as you are registered on this online offering. Subsequently, such data shall be deleted. This shall be without prejudice to mandatory statutory retention obligations."
+      },
+
+      "subsection5": {
+        "title": "4.6 Registration with Google",
+        "description1": "Instead of registering directly on this online offering, you can register with Google. The provider of this service is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.",
+        "description2": "To register with Google, you must only enter your Google name and password. Google will identify you and confirm your identity to our online offering.",
+        "description3": "When you sign in with Google, we may be able to use certain information in your account to complete your profile with us. You decide whether you want this information to be used and if so, which information it is, within the framework of your Google security settings, which you can find here",
+        "description4": "and",
+        "description5": "The data processing associated with Google’s registration is based on our legitimate interest in making the registration process as simple as possible for our users (Art. 6(1)(f) GDPR). Since the use of the registration function is voluntary and the users themselves can decide on the respective access options, no conflicting predominantrights of the data subjects areapparent.",
+        "description6": "The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link"
+      },
+
+      "subsection6": {
+        "title": "4.7 Data processing as part of the “Housingpass” product",
+        "description1": "If and insofar as you actively use Housingpass and have set up a profile, you have the option of processing the following data from the external sources you have provided (e.g. your bank details) as well as your own personal data via Housingpass. You can use this to create an “application document” that you can make available to potential landlords.",
+        "description2": "The application document generated in this way then contains the following data:\n First and last name \n address \n Date of birth \n Number and other details of identity card or passport \n age \n sex \n Nationality \n Information on marital status \n Details of employment \n Net household income \n Job title and name of employer \n Details of last rented apartment and tenant \n Smoking behavior \n Details of pets \n Account balance and bank transactions \n Details of financial situation \n Details of liability insurance",
+        "description3": "It will remain stored in the Housingpass system until you delete it or the contractual relationship with us is terminated.",
+        "description4": "We do not pass on the application documents to third parties. This is controlled solely by you as the user.",
+        "description5": "The legal basis for this processing is Art. 6 para. 1 lit. b GDPR (contract, i.e. your contract with us), as well as Art. 6 para. 1 lit. a GDPR with regard to the transfer to third parties controlled by you."
+      }
+    },
+    "section5": {
+      "title": "5 Social media",
+      "subsection1": {
+        "subTitle": "5.1 LinkedIn",
+        "description1": "This online offering uses elements of the LinkedIn network. The provider is LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland.",
+        "description2": "Any time you access a page of this online offering that contains elements of LinkedIn, a connection to LinkedIn’s servers is established. LinkedIn is notified that you have visited this online offering with your IP address. If you click on LinkedIn’s “Recommend” button and are logged into your LinkedIn account at the time, LinkedIn will be in a position to allocate your visit to this online offering to your user account. We have to point out that we as the provider of the online offering do not have any knowledge of the content of the transferred data and its use by LinkedIn. The use of this service is based on your consent in accordance with Art. 6 (1)(a) GDPR and § 25 (1) TTDSG. Consent can be revoked at any time.",
+        "description3": "Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here",
+        "description4": "For further information on this subject, please consult LinkedIn’s Data Privacy Declaration at"
+      }
+    },
+    "section6": {
+      "title": "6 Analysis tools and advertising",
+      "subsection1": {
+        "subTitle": "6.1 Google Tag Manager",
+        "description1": "We use the Google Tag Manager. The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.",
+        "description2": "The Google Tag Manager is a tool that allows us to integrate tracking or statistical tools and other technologies on our online offering. The Google Tag Manager itself does not create any user profiles, does not store cookies, and does not carry out any independent analyses. It only manages and runs the tools integrated via it. However, the Google Tag Manager does collect your IP address, which may also be transferred to Google’s parent company in the United States.",
+        "description3": "The Google Tag Manager is used on the basis of Art. 6(1)(f) GDPR. The operator of this online offering has a legitimate interest in the quick and uncomplicated integration and administration of various tools on his online offering. If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25 (1) TTDSG, insofar the consent includes the storage of cookies or the access to information in the user’s end device (e.g., device fingerprinting) within the meaning of the TTDSG. This consent can be revoked at any time.",
+        "description4": "The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link: https://www.dataprivacyframework.gov/s/participant-search/participantdetail?contact=true&id=a2zt000000001L5AAI&status=Active"
+      },
+      "subsection2": {
+        "subTitle": "6.2 Google Analytics",
+        "description1": "This online offering uses functions of the web analysis service Google Analytics. The provider of this service is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.",
+        "description2": "Google Analytics enables the operator of this online offering to analyze the behavior patterns of online offering visitors. To that end, the operator of this online offering receives a variety of user data, such as pages accessed, time spent on the page, the utilized operating system and the user’s origin. This data is summarized in a user-ID and assigned to the respective end device of the online offering visitor.",
+        "description3": "Furthermore, Google Analytics allows us to record your mouse and scroll movements and clicks, among other things. Google Analytics uses various modeling approaches to augment the collected data sets and uses machine learning technologies in data analysis. Google Analytics uses technologies that make the recognition of the user for the purpose of analyzing the user behavior patterns (e.g., cookies or device fingerprinting). The online offering use information recorded by Google is, as a rule, transferred to a Google server in the United States, where it is stored.",
+        "description4": "The use of these services occurs on the basis of your consent pursuant to Art. 6(1)(a) GDPR and § 25(1) TTDSG. You may revoke your consent at any time.",
+        "description5": "Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here",
+        "description6": "The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link"
+      },
+      "subsection3": {
+        "subTitle": "IP anonymization",
+        "description": "Google Analytics IP anonymization is active. As a result, your IP address will be abbreviated by Google within the member states of the European Union or in other states that have ratified the Convention on the European Economic Area prior to its transmission to the United States. The full IP address will be transmitted to one of Google’s servers in the United States and abbreviated there only in exceptional cases. On behalf of the operator of this online offering, Google shall use this information to analyze your use of this online offering to generate reports on online offering activities and to render other services to the operator of this online offering that are related to the use of the online offering and the Internet. The IP address transmitted in conjunction with Google Analytics from your browser shall not be merged with other data in Google’s possession."
+      },
+      "subsection4": {
+        "subTitle": "Browser plug-in",
+        "description": "You can prevent the recording and processing of your data by Google by downloading and installing the browser plugin available under the following link"
+      },
+      "subsection5": {
+        "subTitle": "Google Signals",
+        "description": "We use Google Signals. Whenever you visit our online offering, Google Analytics records, among other things, your location, the progression of your search and YouTube progression as well as demographic data (site visitor data). This data may be used for customized advertising with the assistance of Google Signal. If you have a Google account, your site visitor information will be linked to your Google account by Google Signal and used to send you customized promotional messages. The data is also used to compile anonymized statistics of our users’ online patterns."
+      },
+      "subsection6": {
+        "subTitle": "Contract data processing",
+        "description": "We have executed a contract data processing agreement with Google and are implementing the stringent provisions of the German data protection agencies to the fullest when using Google Analytics."
+      },
+      "subsection7": {
+        "subTitle": "Google Analytics E-Commerce Tracking",
+        "description": "This online offering uses the “E-Commerce Tracking” function of Google Analytics. With the assistance of E-Commerce Tracking, the online offering operator is in a position to analyze the purchasing patterns of online offering visitors with the aim of improving the operator’s online marketing campaigns. In this context, information, such as the orders placed, the average order values, shipping costs and the time from viewing the product to making the purchasing decision are tracked. These data may be consolidated by Google under a transaction ID, which is allocated to the respective user or the user’s device."
+      }
+    },
+    "section7": {
+      "title": "7 Newsletter",
+
+      "subsection1": {
+        "subTitle": "7.1 Newsletter data",
+        "description": "If you would like to receive the newsletter offered on the online offering, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the e-mail address provided and that you agree to receive the newsletter. Further data is not collected or only on a voluntary basis. For the handling of the newsletter, we use newsletter service providers, which are described below."
+      },
+
+      "subsection2": {
+        "subTitle": "7.2 Mailchimp with deactivated success measurement",
+
+        "description1": "This online offering uses the services of Mailchimp to send out its newsletters. The provider is the Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA.",
+        "description2": "Among other things, Mailchimp is a service that can be deployed to organize the sending of newsletters. Whenever you enter data forthe purpose of subscribing to a newsletter(e.g. your e-mail address), the information is stored on Mailchimp servers in the United States. We have deactivated the success measurement of Mailchimp, so Mailchimp will not evaluate your behavior when opening our newsletter.",
+        "description3": "If you do not want Mailchimp to receive your data, you must unsubscribe from the newsletter. We provide a link for you to do this in every newsletter message.",
+        "description4": "The data is processed based on your consent(Art. 6(1)(a) GDPR).You may revoke any consent you have given at any time by unsubscribing from the newsletter. This shall be without prejudice to the lawfulness of any data processing transactions that have taken place prior to your revocation.",
+        "description5": "The data deposited with us for the purpose of subscribing to the newsletter will be stored by us until you unsubscribe from the newsletter or the newsletter service provider and deleted from the newsletter distribution list after you unsubscribe from the newsletter. Data stored for other purposes with us remain unaffected.",
+        "description6": "Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here",
+        "description7": "After you unsubscribe from the newsletter distribution list, your e-mail address may be stored by us or the newsletter service provider in a blacklist, if such action is necessary to prevent future mailings. The data from the blacklist is used only for this purpose and not merged with other data. This serves both your interest and our interest in complying with the legal requirements when sending newsletters (legitimate interes twith in the meaning of Art. 6(1)(f)GDPR).The storage in the black list is indefinite. You may object to the storage if your interests outweigh ourlegitimate interest.",
+        "description8": "For more details, please consult the Data Privacy Policies of Mailchimp at:",
+        "description9": "The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link"
+      },
+
+      "subsection3": {
+        "subTitle": "Data processing",
+        "description": "We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of the visitors of our online offering only based on our instructions and in compliance with the GDPR."
+      }
+    },
+    "section8": {
+      "title": "8 Plug-ins andTools",
+
+      "subsection1": {
+        "subTitle": "8.1 Sentry",
+
+        "description1": "We have integrated Sentry on this online offering. The provider is Functional Software Inc., 45 Fremont Street, 8th Floor, San Francisco, California 94105, USA.",
+        "description2": "Sentry is an open-source bug tracking service that allows us to monitor and fix bugs and crashes anywhere in a web-based software in real time.",
+        "description3": "Sentry is used on the basis of Art. 6 (1)(f) GDPR. The operator of this online offering has a legitimate interest in the error- free functioning of its own website.",
+        "description4": "If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25 (1) TTDSG, insofar the consent includes the storage of cookies or the access to information in the user’s end device (e.g., device fingerprinting) within the meaning of theTTDSG.This consent can be revoked at any time.",
+        "description5": "For more details, please refer to the providers privacy policy",
+        "description6": "Data transfer to the US is based on the standard contractual clauses of the EU Commission. Details can be foundhere.",
+        "description7": "The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link"
+      },
+
+      "subsection2": {
+        "subTitle": "Data processing",
+        "description": "We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our online offering visitors only based on our instructions and in compliance with the GDPR."
+      }
+    },
+    "section9": {
+      "title": "9 Ecommerce and payment service providers",
+
+      "subsection1": {
+        "subTitle": "9.1 Processing of Customer and Contract Data",
+        "description1": "We collect, process, and use personal customer and contract data for the establishment, content arrangement and modification of our contractual relationships. Data with personal references to the use of this online offering (usage data) will be collected, processed, and used only if this is necessary to enable the userto use our services or required for billing purposes. The legal basis for these processes isArt. 6(1)(b) GDPR.",
+        "description2": "We collect, process, and use personal customer and contract data for the establishment, content arrangement and modification of our contractual relationships. Data with personal references to the use of this online offering (usage data) will be collected, processed, and used only if this is necessary to enable the userto use our services or required for billing purposes. The legal basis for these processes isArt. 6(1)(b) GDPR."
+      },
+
+      "subsection2": {
+        "subTitle": "9.2 Data transfer upon closing of contracts for services and digital content",
+        "description1": "We share personal data with third parties only if this is necessary in conjunction with the handling of the contract; for instance, with the financial institution tasked with the processing of payments.",
+        "description2": "Any further transfer of data shall not occur or shall only occur if you have expressly consented to the transfer. Any sharing of your data with third parties in the absence of your express consent, for instance for advertising purposes, shall not occur.",
+        "description3": "The basis for the processing of data is Art. 6(1)(b) GDPR, which permits the processing of data for the fulfilment of a contract or for pre-contractual actions."
+      },
+
+      "subsection3": {
+        "subTitle": "9.3 Payment services",
+        "description1": "We integrate payment services of third-party companies on our online offering. When you make a purchase from us,your payment data(e.g.name,payment amount, bank account details,credit card number) are processed by the payment service provider for the purpose of payment processing. For these transactions, the respective contractual and data protection provisions of the respective providers apply. The use of the payment service providers is based on Art. 6(1)(b) GDPR (contract processing) and in the interest of a smooth, convenient, and secure payment transaction (Art. 6(1)(f)GDPR).Insofar as your consent is requested for certain actions,Art. 6(1)(a) GDPR is the legal basis for data processing; consent may be revoked at any time for the future.",
+        "description2": "We use the following payment services / payment service providers within the scope of this online offering."
+      },
+
+      "subsection4": {
+        "subTitle": "9.4 Stripe",
+        "description1": "The provider for customers within the EU is Stripe Payments Europe, Ltd,1 Grand Canal Street Lower, Grand Canal Dock,Dublin, Ireland (hereinafter“Stripe”).",
+        "description2": "Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here",
+        "description3": "Details can be found in Stripe’s Privacy Policy at the following link"
+      }
+    },
+    "section10": {
+      "title": "10 Custom Services",
+
+      "subsection1": {
+        "subTitle": "10.1 Handling applicant data",
+        "description1": "We offer visitors of our online offering the opportunity to submit job applications to us (e.g., via e-mail, via postal services on by submitting the online job application form). Below, we will brief you on the scope, purpose and use of the personal data collected from you in conjunction with the application process. We assure you that the collection, processing, and use of your data will occur in compliance with the applicable data privacy rights and all other statutory provisions and that your data will always be treated as strictly confidentia"
+      },
+
+      "subsection2": {
+        "subTitle": "10.2 Scope and purpose of the collection of data",
+        "description1": "If you submit a job application to us, we will process any affiliated personal data (e.g., contact and communications data, application documents, notes taken during job interviews, etc.), if they are required to make a decision concerning the establishment or an employment relationship. The legal grounds for the aforementioned are § 26 BDSG according to German Law (Negotiation of an Employment Relationship), Art. 6(1)(b) GDPR (General Contract Negotiations) and – provided you have given us your consent – Art. 6(1)(a) GDPR. You may revoke any consent given at any time. Within our company, your personal data will only be shared with individuals who are involved in the processing of your job application.",
+        "description2": "If your job application should result in your recruitment, the data you have submitted will be archived on the grounds of § 26 BDSG and Art. 6(1)(b) GDPR for the purpose of implementing the employment relationship in our data processing system."
+      },
+
+      "subsection3": {
+        "subTitle": "10.3 Data Archiving Period",
+        "description1": "If we are unable to make you a job offer or you reject a job offer or withdraw your application, we reserve the right to retain the data you have submitted on the basis of our legitimate interests (Art. 6(1)(f) GDPR) for up to 6 months from the end of the application procedure (rejection or withdrawal of the application). Afterwards the data will be deleted, and the physical application documents will be destroyed. The storage serves in particular as evidence in the event of a legal dispute. If it is evident that the data will be required afterthe expiry of the 6-month period (e.g., due to an impending or pending legal dispute), deletion will only take place when the purpose for further storage no longer applies.",
+        "description2": "Longer storage may also take place if you have given your agreement (Article 6(1)(a) GDPR) or if statutory data retention requirements preclude the deletion."
+      },
+
+      "subsection4": {
+        "subTitle": "10.4 Admission to the applicant pool",
+        "description1": "If we do not make you a job offer, you may be able to join our applicant pool. In case of admission, all documents and information from the application will be transferred to the applicant pool in order to contact you in case of suitable vacancies.",
+        "description2": "Admission to the applicant pool is based exclusively on your express agreement (Art. 6(1)(a) GDPR). The submission agreement is voluntaryand has norelationtothe ongoing application procedure. The affected person can revoke his agreement at any time. In this case, the data from the applicant poolwillbe irrevocably deleted, provided there are no legal reasons for storage.",
+        "description3": "The data from the applicant pool will be irrevocably deleted no later than two years after consent has been granted."
+      }
+    }
+  },
+  "signIn": {
+    "registeredSuccess": "Registered successfully, please verify your email and then sign in.",
+    "title": "Sign In",
+
+    "emailNotVerified": {
+      "verifyFirst": "Please verify your email before signing in.",
+      "resentSuccess": "Verification email has been resent. Please check your inbox.",
+      "resendVerification": "Resend Verification",
+      "sending": "Sending..."
+    },
+
+    "invalidCredentialsMessage": "Invalid credentials",
+
+    "googleSignIn": "Sign in with google",
+
+    "dividerOr": "Or",
+
+    "form": {
+      "emailLabel": "Email Address",
+      "passwordLabel": "Password",
+      "forgotPassword": "Forgot Password?",
+      "submitLoading": "Loading...",
+      "submit": "Sign In"
+    },
+
+    "accountText": {
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    },
+    "resetPasswordDialog": {
+      "title": "Reset Password",
+      "infoText": "Enter the email to which your account is linked",
+      "emailLabel": "Email",
+      "send": "Send",
+      "cancel": "Cancel"
+    },
+    "resetPasswordDialogConfirmation": {
+      "title": "ResetPassword",
+      "infoText": "An email with confirmation code has been sent to you please enter the verification code",
+      "verificationCodeLabel": "Verification Code",
+      "passwordLabel": "Password",
+      "reset": "Reset",
+      "cancel": "Cancel"
+    }
+  },
+  "signUp": {
+    "errorMessage": "Sign-up failed",
+    "title": "Sign Up",
+
+    "tabs": {
+      "tenant": "Tenant",
+      "landlord": "Landlord"
+    },
+
+    "googleSignIn": "Sign in with Google",
+
+    "dividerOr": "Or",
+
+    "form": {
+      "emailLabel": "Email Address",
+      "passwordLabel": "Password",
+      "passwordStrength": {
+        "label": "Strength"
+      }
+    },
+
+    "acceptMessage": "By signing up I accept",
+    "termsAndConditions": "Terms & conditions",
+    "privacyPolicy": "Privacy policy",
+
+    "submitLoading": "Loading...",
+    "continueAsTenant": "Continue as Tenant",
+    "continueAsLandlord": "Continue as Landlord",
+
+    "accountText": {
+      "alreadyHaveAccount": "Already have an account?",
+      "signIn": "Sign In"
+    }
+  },
+  "createProfile": {
+    "title": "Create Your Profile",
+    "description": "we need some more details to create your Certificate. As part of this form, we will need some administrative details which will help us to create your certificate in a better way.",
+    "privateDetails": {
+      "name": "Name",
+      "aboutMyself": "Introduce Yourself",
+      "maritalStatus": "Marital Status",
+      "maritalStatusOptions": {
+        "single": "Single",
+        "married": "Married",
+        "divorced": "Divorced",
+        "widowed": "Widowed"
+      },
+
+      "numberOfChildren": "Number of Children",
+      "numberOfChildrenOptions": {
+        "0": "0",
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "10": "10"
+      },
+
+      "educationLevel": "Education Level",
+      "educationLevelOptions": {
+        "highSchool": "HighSchool",
+        "bachelors": "Bachelors",
+        "master": "Master",
+        "phd": "PhD",
+        "other": "Other"
+      },
+
+      "smokingHabit": "Smoking Habits",
+      "smokingHabitOptions": {
+        "nonSmoker": "Non Smoker",
+        "occasional": "Occasional",
+        "regular": "Regular"
+      },
+
+      "universityName": "University Name",
+
+      "havePet": "Pet Ownership",
+      "havePetOptions": {
+        "notSelected": "NotSelected",
+        "yes": "Yes",
+        "no": "No"
+      }
+    }
+  },
+  "sideBar": {
+    "tenants": "Tenants",
+    "properties": "Properties",
+    "settings": "Settings",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "documents": "Documents",
+    "profileDetails": "Profile Details",
+    "certificate": "Certificate",
+    "invite": "Invite"
+  },
+  "dashboard": {
+    "tenant": {
+      "tenantNote": "Please complete the following steps to finalize your profile: complete your KYC verification and then obtain your financial profile score.",
+      "document": {
+        "documentTitle": "Upload Documents",
+        "documentDescription": "Upload necessary documents to get verified",
+        "buttonText": "Upload Documents",
+        "successMessage": "Documents Successfully Uploaded",
+        "errorMessage": "Not able to get document status, please try again later"
+      },
+      "verified": {
+        "title": "Id Not Verified",
+        "description": "Get Apartment Early by Verifying your Identity",
+        "buttonText": "Get Verified",
+        "successMessage": "Your Details have been Verified",
+        "errorMessage": "Not able to get verification status, please try again later"
+      },
+      "verifiedModal": {
+        "title": "Get Our Subscription to get your profile Verified",
+        "thankYou": "ThankYou",
+        "invoiceText": "Download Invoices Change A Payment Method",
+        "ManagingButton1": "Manage Billing",
+        "ManagingButton2": "Continue",
+        "description": "We appreciate your business! A confirmation email will be sent to {customerEmail}. If you have any questions, please email"
+      },
+      "financialScore": {
+        "title": "No Financial Score",
+        "description": "Landlord Prefer Tenant with Good Finance Score",
+        "buttonText": "Get Finance Score",
+        "successMessage": "Finance Details Successfully Provided",
+        "errorMessage": "Not able to get financial status, Please try again later"
+      },
+      "dashboradContent": {
+        "profileDetails": {
+          "title": "Profile Details",
+          "name": "Name",
+          "email": "Email",
+          "biography": "Your Biography",
+          "address": "Address",
+          "employerName": "Employer Name",
+          "jobTitle": "Job Title",
+          "employmentStatus": "Employment Status",
+          "avgIncome": "Avg Income",
+          "dateOfBirth": "Date Of Birth",
+          "countryOfOrigin": "Country Of Origin",
+          "maritalStatus": "Marital Status",
+          "numberOfChildren": "Number Of Children",
+          "educationLevel": "Education Level",
+          "smokingHabit": "Smoking Habit",
+          "universityName": "University Name",
+          "petOwner": "Pet Owner",
+          "petYes": "Yes",
+          "petNo": "No"
+        },
+
+        "profileScore": {
+          "title": "Profile Completeness Score",
+          "kyc": "Kyc",
+          "finance": "Finance",
+          "docs": "Docs",
+          "profile": "Profile",
+
+          "kycDetails": "Kyc Details",
+          "documentCountry": "Document Country",
+          "documentType": "Document Type",
+          "documentNumber": "Document Number",
+          "dateOfIssue": "Date Of Issue",
+          "nameOnDocument": "Name On Document",
+          "expiryDate": "Expiry Date",
+          "nationalityAddress": "Nationality Address",
+          "media": "Media"
+        },
+
+        "financialDetails": {
+          "title": "Financial Details",
+          "employmentStability": {
+            "title": "Employment Stability",
+            "hover": "How consistent the applicant's job history is—measured by 3 consistent Monthly Income from recent jobs."
+          },
+          "incomeToRentRatio": {
+            "title": "Income to Rent Ratio",
+            "hover": "Shows if the tenant can afford rent. It’s their monthly income divided by the monthly rent. A higher ratio is better."
+          },
+          "debtToIncomeRatio": {
+            "title": "Debt to Income Ratio",
+            "hover": "The portion of income spent. Lower is better, it means less financial pressure."
+          },
+          "rentPayments": {
+            "title": "Rent Payments",
+            "hover": "Tracks if the tenant has paid rent on time in the past. Helps predict if they'll pay on time in the future."
+          },
+          "stability": {
+            "title": "Stability",
+            "hover": "An overall view of how steady the financial status of the tenant is."
+          },
+
+          "monthlyIncome": {
+            "title": "Monthly Income",
+            "description": "The monthly income section represents gross and net monthly income of a tenant.",
+            "income": "Income",
+            "noValue": "NA"
+          },
+
+          "rentBuckets": {
+            "title": "Rent Buckets",
+            "description": "The below buckets suggest the minimum and maximum rent a tenant can afford based on their monthly earnings.",
+            "minRent": "Min Rent",
+            "maxRent": "Max Rent",
+            "noValue": "NA"
+          }
+        },
+
+        "loading": {
+          "pleaseWait": "Please Wait..."
+        }
+      },
+      "documentContent": {
+        "title": "Document",
+        "loadingWait": "Please wait...",
+        "loading": "Loading...",
+        "uploadButton": "Upload",
+        "downloadButton": "Download",
+        "deleteButton": "Delete",
+        "alertmessage": "Please upload documents. No documents uploaded yet.",
+        "table": {
+          "name": "Name",
+          "category": "Category",
+          "uploaded": "Uploaded",
+          "comment": "Comment"
+        },
+        "documentModal": {
+          "loadingMessage": "Please wait...",
+          "uploadTitle": "Upload New Document",
+          "editTitle": "Edit Document",
+
+          "fields": {
+            "documentName": "Document Name",
+            "selectCategory": "Select a category",
+            "comment": "Comment"
+          },
+
+          "buttons": {
+            "submit": "Submit",
+            "cancel": "Cancel"
+          }
+        }
+      },
+      "profileDetails": {
+        "title": "Profile Details"
+      },
+      "certificateContent": {
+        "title": "Certificate",
+        "downloadCertificate": "Download Certificate",
+        "shareCertificate": "Share Certificate",
+        "pleaseWait":"Please wait...",
+        "certificateHeader": {
+          "description1": "This certificate is issued by HousingPass, generated using the tenants financial information, profile details, and verified KYC data. It provides a quick and reliable way to assess the tenants eligibility for renting a property.",
+          "description2": "Access the digital certificate anytime at https://housingpass.com"
+        },
+        "certificateFooter": {
+          "companyName": "Housing Connect GmbH",
+          "addressLine1": "Belvederestraße 40",
+          "addressLine2": "50933 Cologne",
+          "copyright": "@copyright HousingPass.com",
+          "validTill": "VALID TILL: 2025-03-12",
+          "phone": "+49 (0)152 52450331",
+          "email": "support@housingpass.com"
+        },
+        "administrativeDetails": {
+          "title": "Administrative Details",
+          "name": "Name",
+          "dateOfBirth": "Date Of Birth",
+          "countryOfOrigin": "Country Of Origin",
+          "maritalStatus": "Marital Status",
+          "numberOfChildren": "Number Of Children",
+          "educationLevel": "Education Level",
+          "universityName": "University Name",
+          "smokingHabit": "Smoking Habit",
+          "jobTitle": "Job Title",
+          "petOwnership": "Pet Ownership",
+          "employerName": "Employer Name",
+          "employmentStatus": "Employer Status",
+          "address": "Address",
+          "aboutUs": "About Us",
+          "certificateDataProvided": "Certificate data provided at",
+          "declarationText": "I declare that the above information have been provided truthfully."
+        },
+
+        "financialDetails": {
+          "title": "Financial Details",
+          "incomeToRentRatio": "Income to rent ratio",
+          "employmentStability": "Employment Stability",
+          "debtToIncomeRatio": "Debt to income ratio",
+          "rentRatio": "Rent ratio",
+          "assets": "Assets",
+          "financeScore": {
+            "title": "Total Finance Score",
+            "status": {
+              "strong": "Strong",
+              "moderate": "Moderate",
+              "average": "Average",
+              "weak": "Weak"
+            },
+            "outOf": "out of 100",
+            "description": "This financial score represents a summary of the tenants financial data and is not the complete score."
+          }
+        },
+
+        "monthlyIncome": {
+          "title": "Monthly Income",
+          "description": "The monthly income section represent gross income and net monthly income of a tenant.",
+          "income": "Income"
+        },
+
+        "documents": {
+          "title": "Document Uploaded",
+          "categories": {
+            "education": "Education",
+            "idDocuments": "Id Documents",
+            "visa": "Visa",
+            "work": "Work",
+            "employerReference": "Employer Reference",
+            "landlordReference": "Landlord Reference",
+            "liabilityInsurance": "Liability Insurance",
+            "payslip": "Payslip",
+            "otherDocuments": "Other Documents"
+          }
+        },
+
+        "rentBuckets": {
+          "title": "Rent Buckets",
+          "description": "The buckets suggest the min & max rent a tenant can afford based on their monthly earning",
+          "minRent": "Min Rent",
+          "maxRent": "Max Rent"
+        },
+
+        "profileScore": {
+          "title": "Profile Score",
+          "kycStatus": "KYC Verification Status",
+          "documentCountry": "Document Country",
+          "lastValidationOn": "Last Validation On",
+          "nameOnDocument": "Name On document",
+          "verificationStatus": "Verification Status",
+          "documentType": "Document Type",
+          "completeProfileScore": "Complete Profile Score",
+          "scoreTitle": "Score",
+          "scoreInfo": "The score is accumulated from user financial data, kyc data and profile details provided."
+        },
+
+        "trustedPartners": {
+          "title": "Trusted Service Partners",
+          "secureHosted": "Secure & Hosted in Germany",
+          "poweredBy": "Powered By",
+          "qrInfo": "You can verify the authenticity of this certificate until 15.07.2024 with the verification code online."
+        },
+        "loading": {
+          "pleaseWait": "Please Wait...",
+          "loading": "Loading..."
+        },
+        "certificateModal": {
+          "title": "Enter email to share your certificate",
+          "fields": {
+            "emailLabel": "Email"
+          },
+          "buttons": {
+            "send": "Send",
+            "cancel": "Cancel"
+          }
+        }
+      },
+      "settingsContent": {
+        "pageTitle": "Settings",
+        "sectionTitle": "Settings",
+        "sectionSubtitle": "Change email & password",
+
+        "password": {
+          "placeholder": "New Password",
+          "emailPlaceholder": "Email",
+          "submit": "Submit",
+          "loading": "Loading...",
+          "success": "Password changed successfully"
+        },
+
+        "deleteAccount": {
+          "instruction": "To delete your account enter your current email",
+          "placeholder": "Email",
+          "submit": "Delete Account",
+          "loading": "Loading...",
+          "success": "Account deleted successfully"
+        },
+
+        "billing": {
+          "title": "Manage Billings",
+          "subtitle": "Manage your billings, subscription & check your invoices",
+          "button": "Manage Billing",
+          "loading": "Loading..."
+        }
+      },
+      "inviteContent": {
+        "title": "Invite",
+        "emailPlaceholder": "Email Address"
+      },
+      "logoutContent": {
+        "loadingMessage": "Please wait...",
+        "title": "Logout",
+        "confirmationMessage": "Are you sure you want to logout?",
+        "yes": "Yes",
+        "no": "No"
+      }
+    },
+    "landlord": {
+      "viewerTable": {
+        "searchPlaceholder": "Search tenant by name...",
+        "tenantNotFound": "Tenant not found",
+        "shareQr": "Share QR",
+        "copyLink": "Copy Link",
+        "tenant": "Tenant",
+        "email": "Email",
+        "monthlyIncome": "Monthly Income",
+        "country": "Country"
+      },
+      "qrModal": {
+        "title": "Scan QR Code",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+        "printQr": "Print QR",
+        "copyIframe": "Copy iframe",
+        "viewQr": "View Qr",
+        "iframeCopied": "Iframe copied successfully!"
+      },
+      "property": {
+        "searchPlaceholder": "Search property by name...",
+        "createProperty": "Create Property",
+        "propertyNotFound": "No properties found",
+        "loadingProperty": "Properties loading...",
+        "name": "Property Name",
+        "fullAddress": "Address",
+        "ownerName": "Owner Name",
+        "monthlyRent": "Monthly Rent",
+        "action": "View Details",
+        "fields": {
+          "createProperty": "Create Property",
+          "updateProperty": "Update Property",
+          "name": "Property Name",
+          "propertyId": "Property Id / Number",
+          "pmsId": "Property Id in PMS System",
+          "fullAddress": "Property Full Address",
+          "ownerName": "Name of Property Owner",
+          "numberOfRooms": "Number of Rooms",
+          "sizeInSquareMeters": "Size in Square Meters",
+          "maxNumberOfTenants": "Max Number of Tenants",
+          "monthlyRent": "Monthly Total Rent Incl. Utilities",
+          "availabilityDate": "Date of Availability (mm/dd/yyyy)",
+          "creating": "Creating...",
+          "create": "Create Property",
+          "updating": "Updating..."
+        },
+        "invites": {
+          "sno": "Sno",
+          "name": "Name",
+          "email": "Email",
+          "financeScore": "Finance Score",
+          "totalScore": "Total Score",
+          "accepted": "Accepted",
+          "action": "Action",
+          "loading": "Loading...",
+          "resend": "Resend",
+          "notFound": "Invite not found"
+        },
+        "viewButton": "View",
+        "deletingButton": "Deleting...",
+        "deleteButton": "Delete",
+        "updateButton": "Update",
+        "invite": {
+          "sentInvite": "Sent Invite",
+          "inviteTenant": "Invited Tenants",
+          "acceptedTenant": "Accepted Tenants",
+          "loading": "Loading...",
+          "noTenantFound": "  No tenants found",
+          "resend": "Resend",
+          "id": "Sno",
+          "name": "Name",
+          "email": "Email",
+          "status": "Invite Status",
+          "action": "Action",
+          "inviteModal": {
+            "title": "Invite",
+            "name": "Name",
+            "email": "Email",
+            "sending": "Sending...",
+            "sendInvite": "Send Invite"
+          },
+          "acceptedColumns": {
+            "id": "Sno",
+            "name": "Tenant",
+            "email": "Email",
+            "monthlyIncome": "Monthly Income",
+            "country": "Country"
+          },
+          "tenantCard": {
+            "tenantDetailedView": "Tenant Detailed View",
+            "occupants": "Occupants",
+            "person": "person",
+            "income": "Income",
+            "monthlyIncome": "Monthly Income",
+            "country": "Country",
+            "viewCertificate": "View Certificate",
+            "viewDocument": "View Document",
+            "invitedTenantDetailedView": "Invited Tenant Detailed View"
+          }
+        }
+      }
+    }
+  }
+}
