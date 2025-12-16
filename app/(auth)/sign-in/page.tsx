@@ -23,7 +23,7 @@ import {
   StyledTextField,
 } from "../styled";
 
-import google from "@/assets/logos/auth-logos/google.png";
+
 import { useTranslations } from "next-intl";
 
 import theme from "@/theme/theme";
@@ -135,7 +135,7 @@ export default function SignIn() {
 
         <ButtonContainer>
           <AuthButton onClick={googleHandler}>
-            <Image src={google} alt="#" />
+            <Image src="/google.png" alt="#" width={20} height={20}/>
             {t("googleSignIn")}
           </AuthButton>
         </ButtonContainer>

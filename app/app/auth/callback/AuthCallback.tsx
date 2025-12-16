@@ -3,9 +3,10 @@
 import { useEffect } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { jwtStorage } from "@/utils/local_storage_utils";
-import { routes } from "@/lib/routes";
+
 import { useCurrentUser } from "@/api/query_hooks";
 import { useQueryClient } from "@tanstack/react-query";
+import { routes } from "@/lib/route";
 
 export const AuthCallback = () => {
   const router = useRouter();

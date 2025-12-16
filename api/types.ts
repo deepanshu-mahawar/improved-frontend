@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 export type Entity = {
   id: string;
@@ -132,13 +132,19 @@ export interface API {
       manageInvites: (data: EmailsPayload) => Promise<void>;
     };
     bank: {
-      housingPassScore: (reqPayload?: ScoreRequestPayload) => Promise<TenantScoreReport>;
+      housingPassScore: (
+        reqPayload?: ScoreRequestPayload
+      ) => Promise<TenantScoreReport>;
     };
   };
   accountDetails: {
-    createAccountDetails: (data: CreateOrUpdateAccountDetailsData) => Promise<AccountDetailsData>;
+    createAccountDetails: (
+      data: CreateOrUpdateAccountDetailsData
+    ) => Promise<AccountDetailsData>;
     getAccountDetails: () => Promise<CreateOrUpdateAccountDetailsData>;
-    updateAccountDetails: (data: CreateOrUpdateAccountDetailsData) => Promise<AccountDetailsData>;
+    updateAccountDetails: (
+      data: CreateOrUpdateAccountDetailsData
+    ) => Promise<AccountDetailsData>;
     deleteAccountDetails: () => Promise<void>;
   };
   profileDetails: {
@@ -148,31 +154,53 @@ export interface API {
     getProfileDetails: () => Promise<any>;
   };
   bank: {
-    getInstitutionsByCountryName: (countryName: string) => Promise<Institution[]>;
+    getInstitutionsByCountryName: (
+      countryName: string
+    ) => Promise<Institution[]>;
     createLink: (data: any) => Promise<any>;
     getAccounts: (viewerId?: string) => Promise<any>;
     getTransactions: (accountId: string, viewerId?: string) => Promise<any>;
     getBalance: (accountId: string) => Promise<any>;
     getAccountDetails: (accountId: string) => Promise<any>;
     triggerCheckoutReset: () => Promise<void>;
-    calculateScoring: (transaction: any[], viewerId?: string) => Promise<ScoreData>;
+    calculateScoring: (
+      transaction: any[],
+      viewerId?: string
+    ) => Promise<ScoreData>;
   };
   contact: {
-    sendMessage: (data: { name: string; email: string; message: string }) => Promise<void>;
+    sendMessage: (data: {
+      name: string;
+      email: string;
+      message: string;
+    }) => Promise<void>;
   };
   properties: {
     getMyProperties: (accessToken: string) => Promise<CreateProperty[]>;
-    createProperty: (data: CreateProperty, accessToken: string) => Promise<CreateProperty>;
-    getPropertyById: (propertyId: string, accessToken: string) => Promise<CreateProperty>;
+    createProperty: (
+      data: CreateProperty,
+      accessToken: string
+    ) => Promise<CreateProperty>;
+    getPropertyById: (
+      propertyId: string,
+      accessToken: string
+    ) => Promise<CreateProperty>;
     updateProperty: (
       propertyId: string,
       data: Partial<CreateProperty>,
-      accessToken: string,
+      accessToken: string
     ) => Promise<CreateProperty>;
-    deleteProperty: (propertyId: string, accessToken: string) => Promise<{ message: string }>;
+    deleteProperty: (
+      propertyId: string,
+      accessToken: string
+    ) => Promise<{ message: string }>;
   };
   invites: {
-    sendInvite: (data: { propertyId: string; email: string; name: string }) => Promise<Invites>;
+    sendInvite: (data: {
+      propertyId: string;
+      email: string;
+      name: string;
+    }) => Promise<Invites>;
     getInvitesByProperty: (propertyId: string) => Promise<Invites>;
     resendInvite: (inviteId: string) => Promise<Invites>;
     acceptInvite: (inviteId: string) => Promise<Invites>;
@@ -237,7 +265,7 @@ export type ScoreData = {
       bookingDate: string;
       remittanceInformationUnstructured: string;
       creditorName: string;
-    },
+    }
   ];
 };
 
@@ -293,7 +321,7 @@ export type TenantScoreReport = {
   savingsScore: number;
   grossMonthlyIncome: number;
   netMonthlyIncome: number;
-  riskLevel: 'low' | 'moderate' | 'high';
+  riskLevel: "low" | "moderate" | "high";
   percentileRank: number;
   riskFreeRentalRange: {
     minRent: number;

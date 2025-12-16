@@ -1,11 +1,11 @@
-import axios from 'axios';
-import { saveAs } from 'file-saver';
-import fileDownload from 'js-file-download';
+import axios from "axios";
+import { saveAs } from "file-saver";
+import fileDownload from "js-file-download";
 
-import { jwtStorage } from '@/utils/local_storage_utils';
+import { jwtStorage } from "@/utils/local_storage_utils";
 
 const axiosInstance = axios.create({
-  baseURL: `${process.env.NEXT_PUBLIC_API_BASE_URL || ''}/api/v1`,
+  baseURL: `${process.env.NEXT_PUBLIC_API_BASE_URL || ""}/api/v1`,
 });
 
 axiosInstance.interceptors.request.use((config: any) => {
@@ -16,7 +16,9 @@ axiosInstance.interceptors.request.use((config: any) => {
   return config;
 });
 
-export async function axiosTyped<_, TResponse>(config: any): Promise<TResponse> {
+export async function axiosTyped<_, TResponse>(
+  config: any
+): Promise<TResponse> {
   return axiosInstance
     .request(config as any)
     .then((res) => res.data)
@@ -26,10 +28,12 @@ export async function axiosTyped<_, TResponse>(config: any): Promise<TResponse> 
 }
 
 const axiosLandlordInstance = axios.create({
-  baseURL: `${process.env.NEXT_PUBLIC_API_BASE_URL || ''}/api/v1`,
+  baseURL: `${process.env.NEXT_PUBLIC_API_BASE_URL || ""}/api/v1`,
 });
 
-export async function axiosLandlordTyped<_, TResponse>(config: any): Promise<TResponse> {
+export async function axiosLandlordTyped<_, TResponse>(
+  config: any
+): Promise<TResponse> {
   return axiosLandlordInstance
     .request(config as any)
     .then((res) => res.data)
@@ -40,27 +44,27 @@ export async function axiosLandlordTyped<_, TResponse>(config: any): Promise<TRe
 
 const getAxiosFileClient = () => {
   return async <_, _U = Blob>(params: any, fileName?: string) => {
-    if (params.method === 'POST') {
+    if (params.method === "POST") {
       const response: any = await axiosInstance.request({
         ...params,
-        headers: { ...(params.headers || {}), Accept: 'application/pdf' },
-        responseType: 'blob' as const,
+        headers: { ...(params.headers || {}), Accept: "application/pdf" },
+        responseType: "blob" as const,
       });
 
-      const blob = new Blob([response.data], { type: 'application/pdf' });
-      saveAs(blob, fileName || 'download.pdf');
-    } else if (params.method === 'GET') {
+      const blob = new Blob([response.data], { type: "application/pdf" });
+      saveAs(blob, fileName || "download.pdf");
+    } else if (params.method === "GET") {
       const response: any = await axiosInstance.request({
         ...params,
-        headers: { ...(params.headers || {}), Accept: 'application/pdf' },
-        responseType: 'blob' as const,
+        headers: { ...(params.headers || {}), Accept: "application/pdf" },
+        responseType: "blob" as const,
       });
 
-      if (fileName === 'render') {
+      if (fileName === "render") {
         return response.data as _U;
       }
 
-      fileDownload(response.data, fileName || 'download');
+      fileDownload(response.data, fileName || "download");
     } else {
       throw new Error(`Unsupported HTTP method: ${params.method}`);
     }
