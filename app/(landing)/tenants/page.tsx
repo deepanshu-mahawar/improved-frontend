@@ -8,7 +8,7 @@ import { PrivateData } from "@/components/pages/tenants/PrivateData";
 import { Testimonials } from "@/components/pages/tenants/Testimonials";
 import { ThisIsHow } from "@/components/pages/tenants/ThisIsHow";
 
-export default function Tenants() {
+export default function TenantsPage() {
   return (
     <main>
       <BecomeTenant />

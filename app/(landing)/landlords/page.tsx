@@ -6,7 +6,7 @@ import { SecureQuick } from "@/components/pages/landlords/SecureQuick";
 import { ThisIsHow } from "@/components/pages/landlords/ThisIsHow";
 import { Faqs } from "@/components/pages/tenants/Faqs";
 
-export default function Landlords() {
+export default function LandlordsPage() {
   return (
     <main>
       <SecureQuick />

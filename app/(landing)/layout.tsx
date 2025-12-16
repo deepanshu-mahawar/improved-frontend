@@ -24,19 +24,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${poppins.variable}  antialiased`}
-        cz-shortcut-listen="true"
-      >
-        <StyledRegistry>
-          <IntlProvider>
-            <Header />
-            {children}
-            <Footer />
-          </IntlProvider>
-        </StyledRegistry>
-      </body>
-    </html>
+    <StyledRegistry>
+      <IntlProvider>
+        <Header />
+        {children}
+        <Footer />
+      </IntlProvider>
+    </StyledRegistry>
   );
 }

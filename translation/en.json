@@ -296,14 +296,14 @@
     "bulletPoint3": "Work with selected integrated software partners (Enterprise solution).",
     "buttonText": "Get Housingpass Now"
   },
-  "homeDataSecuritySection": {
+  "dataSecurity": {
     "title": "Data Security",
     "paragraph1": "Data security is a key pillar of the strategy and vision of HousingPass. By prioritizing secure data handling, we reinforce our reputation as a reliable and future-proof verification service. Our approach ensures seamless, transparent, and risk-free transactions, positioning us as a trusted partner in the real estate sector.",
     "paragraph2": "At HousingPass we prioritize the security and privacy of your data. Our platform ensures that all customer information is handled with the highest level of protection, complying with industry best practices and regulatory standards.",
     "paragraph3": "We are aware that we handle sensitive personal and financial information, making it our responsibility to ensure its protection against unauthorized access, fraud, and data breaches. Implementing strict security measures—such as encryption, secure authentication, and compliance with GDPR and the German DSGVO—helps us build trust with both tenants and landlords while ensuring legal compliance.",
     "buttonText": "Get Housingpass Now"
   },
-  "homeSecurityLayerSection": {
+  "SecurityLayers": {
     "title": "Data Security Layers",
     "bulletPoint1": "Multi-layered security with industry-standard encryption and compliance with global security norms.",
     "bulletPoint2": "Secure data storage with encrypted data hosted in PCI-DSS certified local data centers.",
@@ -312,13 +312,13 @@
     "bulletPoint5": "GDPR compliance providing full data control with easy deletion options.",
     "bulletPoint6": "User data protection ensuring no unauthorized access and maximum privacy."
   },
-  "homeEncryptionSection": {
+  "encryptions": {
     "title": "Encryption, Securing Your Data",
     "paragraph1": "At HousingPass, we prioritize the security and confidentiality of your data. To ensure maximum protection, we implement industry-standard encryption techniques across our platform.",
     "paragraph2": "By using these robust encryption measures, HousingPass safeguards your personal information from cyber threats, ensuring your data remains secure, private, and protected at all times.",
     "buttonText": "Get Housingpass Now"
   },
-  "homeSecurityMeasureSection": {
+  "securityMeasures": {
     "title": "Our Security Measures",
     "cards": {
       "card1": {
@@ -353,7 +353,7 @@
     },
     "buttonText": "Get Housingpass Now"
   },
-  "homePrivateSection": {
+  "private": {
     "title": "Keep Your Info Private and Encrypted",
     "cards": {
       "card1": {
@@ -383,7 +383,7 @@
     },
     "buttonText": "Get Housingpass Now"
   },
-  "homePrivacyMatterSection": {
+  "privacyMatter": {
     "title": "Your Privacy Matters",
     "text1": {
       "before": "We are committed to transparency and trust. If you have any questions regarding your data security, please feel free to contact us at",

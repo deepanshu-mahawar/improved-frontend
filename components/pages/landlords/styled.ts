@@ -9,7 +9,7 @@ export const MainContainer = styled.div<{ $isBackground?: boolean }>(
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90.8vh;
+  height: 100vh;
   width: 100%;
   background-color: ${
     $isBackground ? `${theme.color.background.secondaryBackground}` : ""

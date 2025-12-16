@@ -303,14 +303,14 @@
     "bulletPoint3": "Arbeiten Sie mit ausgewählten integrierten Softwarepartnern zusammen (Enterprise-Lösung).",
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homeDataSecuritySection": {
+  "dataSecurity": {
     "title": "Datensicherheit",
     "paragraph1": "Datensicherheit ist ein zentraler Bestandteil der Strategie und Vision von HousingPass. Durch die Priorisierung sicherer Datenverarbeitung stärken wir unseren Ruf als zuverlässiger und zukunftssicherer Verifizierungsdienst. Unser Ansatz gewährleistet nahtlose, transparente und risikofreie Transaktionen und positioniert uns als vertrauenswürdigen Partner in der Immobilienbranche.",
     "paragraph2": "Bei HousingPass hat die Sicherheit und der Schutz Ihrer Daten oberste Priorität. Unsere Plattform stellt sicher, dass alle Kundendaten mit höchstem Schutz behandelt werden, unter Einhaltung bewährter Branchenpraktiken und gesetzlicher Standards.",
     "paragraph3": "Wir sind uns bewusst, dass wir mit sensiblen persönlichen und finanziellen Informationen arbeiten. Daher ist es unsere Verantwortung, diese vor unbefugtem Zugriff, Betrug und Datenlecks zu schützen. Durch die Umsetzung strenger Sicherheitsmaßnahmen – wie Verschlüsselung, sichere Authentifizierung und die Einhaltung der DSGVO – bauen wir Vertrauen bei Mietern und Vermietern auf und gewährleisten rechtliche Konformität.",
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homeSecurityLayerSection": {
+  "SecurityLayers": {
     "title": "Datensicherheitsebenen",
     "bulletPoint1": "Mehrschichtige Sicherheit mit branchenüblicher Verschlüsselung und Einhaltung globaler Sicherheitsstandards.",
     "bulletPoint2": "Sichere Datenspeicherung mit verschlüsselten Daten in PCI-DSS-zertifizierten lokalen Rechenzentren.",
@@ -319,13 +319,13 @@
     "bulletPoint5": "DSGVO-Konformität mit vollständiger Datenkontrolle und einfachen Löschoptionen.",
     "bulletPoint6": "Schutz der Benutzerdaten ohne unbefugten Zugriff für maximale Privatsphäre und Sicherheit."
   },
-  "homeEncryptionSection": {
+  "encryptions": {
     "title": "Verschlüsselung, Sicherung Ihrer Daten",
     "paragraph1": "Bei HousingPass legen wir höchsten Wert auf die Sicherheit und Vertraulichkeit Ihrer Daten. Um maximalen Schutz zu gewährleisten, implementieren wir branchenübliche Verschlüsselungstechniken auf unserer gesamten Plattform.",
     "paragraph2": "Durch den Einsatz dieser robusten Verschlüsselungsmaßnahmen schützt HousingPass Ihre persönlichen Informationen vor Cyber-Bedrohungen und stellt sicher, dass Ihre Daten jederzeit sicher, privat und geschützt bleiben.",
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homeSecurityMeasureSection": {
+  "securityMeasures": {
     "title": "Unsere Sicherheitsmaßnahmen",
     "cards": {
       "card1": {
@@ -360,7 +360,7 @@
     },
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homePrivateSection": {
+  "private": {
     "title": "Halten Sie Ihre Informationen privat und verschlüsselt",
     "cards": {
       "card1": {
@@ -390,7 +390,7 @@
     },
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homePrivacyMatterSection": {
+  "privacyMatter": {
     "title": "Ihre Privatsphäre ist uns wichtig",
     "text1": {
       "before": "Wir verpflichten uns zu Transparenz und Vertrauen. Wenn Sie Fragen zur Datensicherheit haben, können Sie uns gerne kontaktieren unter",
