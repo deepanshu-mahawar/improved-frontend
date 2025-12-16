@@ -171,3 +171,12 @@ export const Answer = styled.p`
     font-size: 12px;
   }
 `;
+
+//loader styling
+export const LoaderContainer = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1301;
+  width: 100%;
+`;

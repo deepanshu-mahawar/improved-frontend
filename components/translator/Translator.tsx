@@ -1,6 +1,6 @@
 "use client";
 
-import { useLanguage } from "@/translation/IntlProvider";
+import { useLanguage } from "@/providers/IntlProvider";
 import { TabContainer, Tabs } from "./styled";
 
 type Locale = "en" | "de";
