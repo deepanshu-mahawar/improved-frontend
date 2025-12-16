@@ -2,6 +2,8 @@
 
 import styled from "styled-components";
 import theme from "@/theme/theme";
+import { TextField } from "@mui/material";
+import ReactGoogleAutocomplete from "react-google-autocomplete";
 
 //testimonial styling
 export const TestimonialWrapper = styled.div`
@@ -180,3 +182,121 @@ export const LoaderContainer = styled.div`
   z-index: 1301;
   width: 100%;
 `;
+
+//reset password styling
+export const ResetModalContainer = styled.div`
+  width: auto;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  border-radius: 12px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15);
+`;
+
+export const ResetModalInputContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 10;
+`;
+
+export const ResetModalInputfield = styled(TextField)`
+  & .MuiInputBase-root {
+    font-size: 14px;
+    width: 100%;
+  }
+`;
+
+export const ResetModalTitle = styled.h1`
+  font-size: 16px;
+  color: ${theme.color.text.darkBlackTitle};
+`;
+
+export const ResetModalButtonContainer = styled.div`
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+`;
+
+export const ResetModalButton = styled.button`
+  width: 150px;
+  padding: 10px 13px;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+  border-radius: 4px;
+  text-transform: capitalize !;
+  transition: background-color 0.3s ease, color 0.3s ease, border 0.3s ease,
+    transform 0.1s ease;
+
+  &:active {
+    transform: scale(0.9);
+  }
+  color: ${({ disabled }) =>
+    disabled ? theme.color.text.darkBlackText : theme.color.common.light};
+  background-color: ${({ disabled }) =>
+    disabled
+      ? theme.color.border.headerBorder
+      : theme.color.primary.mainPrimary};
+`;
+
+//progressBar styling
+export const BarWrapper = styled.div`
+  width: 30%;
+  height: 8px;
+  border-radius: 4px;
+  background-color: #e0e0e0;
+`;
+
+export const Bar = styled.div<{ width: number; color: string }>`
+  width: ${({ width }) => width}%;
+  height: 100%;
+  border-radius: 4px;
+  background-color: ${({ color }) => color};
+  transition: width 0.3s ease-in-out;
+`;
+
+//customStep styling
+export const StepIconRoot = styled("div")<{
+  $ownerState: { active?: boolean; completed?: boolean };
+}>(({ $ownerState }) => ({
+  display: "flex",
+  height: 24,
+  width: 24,
+  borderRadius: "50%",
+  alignItems: "center",
+  justifyContent: "center",
+  backgroundColor: $ownerState.completed
+    ? "green"
+    : $ownerState.active
+    ? `${theme.color.primary.mainPrimary}`
+    : "#ccc",
+  color: "#fff",
+  fontWeight: 400,
+  fontSize: 14,
+}));
+
+//addressAutoComplete
+export const GoogleAutoComplete = styled(ReactGoogleAutocomplete)<{
+  $padding?: string;
+  $fontSize?: string;
+}>(
+  ({ $padding = "14px", $fontSize = "14px" }) => `
+  width: 100%;
+  padding: ${$padding};
+  outline: none;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  font-size: ${$fontSize};
+
+  :hover{
+    font-size: ${$fontSize};
+  }
+
+  &:focus {
+    outline: none;
+    border-color: ${theme.color.primary.mainPrimary};
+  }
+`
+);

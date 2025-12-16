@@ -7,7 +7,7 @@ import VisibilityOffIcon from "@mui/icons-material/VisibilityOff";
 import { Alert, Button, FormControl, InputAdornment } from "@mui/material";
 import Image from "next/image";
 import Link from "next/link";
-import { ResetPasswordDialog } from "./components";
+
 import {
   AuthButton,
   AuthContainer,
@@ -20,12 +20,15 @@ import {
   DividerWrapper,
   Divider,
   AccountText,
-} from "./styled";
-import { useSignInPage } from "./useSignInPage";
+  StyledTextField,
+} from "../styled";
+
 import google from "@/assets/logos/auth-logos/google.png";
 import { useTranslations } from "next-intl";
-import { StyledTextField } from "../sign-up/SignUp";
+
 import theme from "@/theme/theme";
+import { ResetPassword } from "@/components/common/ResetPassword";
+import { useSignIn } from "@/hooks/useSignIn";
 
 export default function SignIn() {
   const {
@@ -42,7 +45,7 @@ export default function SignIn() {
     handleForgotPasswordClick,
     isForgotPasswordModalOpen,
     setForgotPasswordModalOpen,
-  } = useSignInPage();
+  } = useSignIn();
 
   const [open, setIsOpen] = useState(false);
 
@@ -207,9 +210,7 @@ export default function SignIn() {
       </AuthContainer>
 
       {isForgotPasswordModalOpen && (
-        <ResetPasswordDialog
-          onClose={() => setForgotPasswordModalOpen(false)}
-        />
+        <ResetPassword onClose={() => setForgotPasswordModalOpen(false)} />
       )}
     </AuthMainContainer>
   );
