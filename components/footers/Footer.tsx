@@ -55,7 +55,7 @@ export const Footer = () => {
 
           <ContentWrapper>
             <Label>{t("policyLabel")}</Label>
-            <Menu href="/terms-and-conditions">{t("policyMenu.terms")}</Menu>
+            <Menu href="/terms-&-conditions">{t("policyMenu.terms")}</Menu>
             <Menu href="/privacy-policy">{t("policyMenu.privacy")}</Menu>
           </ContentWrapper>
 
