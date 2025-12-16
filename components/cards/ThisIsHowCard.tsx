@@ -3,7 +3,7 @@ import {
   ContentWrapper,
   Description,
   ImageWrapper,
-  MainWrapper,
+  ThisIsHowCardWrapper,
   Title,
 } from "./styled";
 
@@ -13,19 +13,21 @@ interface ThisIsHowCardProps {
   description: string;
 }
 
-export const ThisIsHowCard = ({ image, title, description }: ThisIsHowCardProps) => {
+export const ThisIsHowCard = ({
+  image,
+  title,
+  description,
+}: ThisIsHowCardProps) => {
   return (
-    <MainWrapper>
+    <ThisIsHowCardWrapper>
       <ImageWrapper>
-        <Image src={image} alt="#" width={100} height={100}/>
+        <Image src={image} alt="#" width={100} height={100} />
       </ImageWrapper>
 
       <ContentWrapper>
         <Title>{title}</Title>
         <Description>{description}</Description>
       </ContentWrapper>
-    </MainWrapper>
+    </ThisIsHowCardWrapper>
   );
 };
-
-

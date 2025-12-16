@@ -15,11 +15,11 @@ export default function Tenants() {
       <HowToGetStarted />
       <ThisIsHow />
       <Testimonials />
-      <PrivateData/>
-      <GreatOffer/>
-      <Faqs/>
-      <HpInNutshell/>
-      <CertificatePreview/>
+      <PrivateData />
+      <GreatOffer />
+      <Faqs />
+      <HpInNutshell />
+      <CertificatePreview />
     </main>
   );
 }

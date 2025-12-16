@@ -1,15 +1,12 @@
 "use client";
 
 import Link from "next/link";
-
 import styled from "styled-components";
-
 import theme from "@/theme/theme";
 
-export const MainWrapper = styled.div`
+export const FooterWrapper = styled.div`
   display: flex;
   justify-content: center;
-  /* align-items: center; */
   width: 100%;
   height: 380px;
   background-color: ${theme.color.primary.mainPrimary};
@@ -23,7 +20,7 @@ export const MainWrapper = styled.div`
   }
 `;
 
-export const SubWrapper = styled.div`
+export const FooterSubWrapper = styled.div`
   width: 84%;
   display: flex;
   justify-content: space-between;

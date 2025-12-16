@@ -60,12 +60,6 @@ export const ImageContainer = styled.div`
   }
 `;
 
-// export const Images = styled(Image)`
-//   height: 100%;
-//   width: auto;
-//   object-fit: cover;
-// `;
-
 export const Images = styled.img`
   height: 100%;
   object-fit: cover;
@@ -170,4 +164,12 @@ export const SectionSubContainer = styled.div`
   @media (max-width: 599px) {
     width: 96%;
   }
+`;
+
+export const GreatOffersCardWrapper = styled.div`
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  padding: 50px 0px;
+  height: 100%;
 `;

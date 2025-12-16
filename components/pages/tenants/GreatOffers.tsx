@@ -10,8 +10,8 @@ import SensorsIcon from "@mui/icons-material/Sensors";
 import { useTranslations } from "next-intl";
 import { GreatOffersCard } from "@/components/cards/GreatOffersCard";
 import {
+  GreatOffersCardWrapper,
   SectionContainer,
-  SectionSubContainer,
   Title,
   TitleContainer,
 } from "../styled";
@@ -33,7 +33,7 @@ export const GreatOffer = () => {
         <Title>{t("title")}</Title>
       </TitleContainer>
 
-      <SectionSubContainer>
+      <GreatOffersCardWrapper>
         {cards.map(({ icon, key }) => (
           <GreatOffersCard
             key={key}
@@ -42,7 +42,7 @@ export const GreatOffer = () => {
             description={t.raw(`cards.${key}.description`)}
           />
         ))}
-      </SectionSubContainer>
+      </GreatOffersCardWrapper>
     </SectionContainer>
   );
 };

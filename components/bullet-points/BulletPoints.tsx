@@ -1,8 +1,14 @@
 import CheckIcon from "@mui/icons-material/Check";
-import { IconWrapper, MainWrapper, Points, SubWrapper } from "./styled";
+import {
+  BulletPointsIconWrapper,
+  BulletPointsSubWrapper,
+  BulletPointsWrapper,
+  Points,
+} from "./styled";
 
 interface BulletPointsProps {
   text: string[];
+  width?: string;
   column?: boolean;
   icon?: string;
   gap?: string;
@@ -13,21 +19,22 @@ export const BulletPoints = ({
   column = false,
   icon = "true",
   gap,
+  width = "90%"
 }: BulletPointsProps) => {
   return (
-    <MainWrapper $column={column} $gap={gap}>
+    <BulletPointsWrapper $column={column} $gap={gap} $width={width}>
       {text.map((string, index) => (
-        <SubWrapper key={index}>
+        <BulletPointsSubWrapper key={index}>
           {icon === "true" ? (
-            <IconWrapper>
+            <BulletPointsIconWrapper>
               <CheckIcon className="check" />
-            </IconWrapper>
+            </BulletPointsIconWrapper>
           ) : (
             ""
           )}
           <Points>{string}</Points>
-        </SubWrapper>
+        </BulletPointsSubWrapper>
       ))}
-    </MainWrapper>
+    </BulletPointsWrapper>
   );
 };

@@ -14,12 +14,10 @@ export const HpNutshellCard = ({
   return (
     <HpNutshellMainWrapper>
       <ImageWrapper>
-        <Image src={image} alt="#" className="image" width={100} height={100}/>
+        <Image src={image} alt="#" className="image" width={100} height={100} />
       </ImageWrapper>
 
       <HpNutshellTitle>{title}</HpNutshellTitle>
     </HpNutshellMainWrapper>
   );
 };
-
-

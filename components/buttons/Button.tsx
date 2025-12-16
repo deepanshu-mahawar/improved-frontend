@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { MainWrapper } from "./styled";
+import { ButtonWrapper } from "./styled";
+
 
 interface ButtonProps {
   buttonText?: string;
@@ -8,10 +9,10 @@ interface ButtonProps {
 
 export const Button = ({ buttonText, route }: ButtonProps) => {
   return (
-    <MainWrapper className="button">
+    <ButtonWrapper className="button">
       <Link href={`/${route}`} className="buttonText">
         {buttonText}
       </Link>
-    </MainWrapper>
+    </ButtonWrapper>
   );
 };

@@ -1,11 +1,10 @@
 "use client";
 
 import styled from "styled-components";
-
 import theme from "@/theme/theme";
 
-//this is how card styling
-export const MainWrapper = styled.div`
+//thisIsHowCard styling
+export const ThisIsHowCardWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,6 +34,7 @@ export const MainWrapper = styled.div`
   }
 `;
 
+//common styling
 export const ImageWrapper = styled.div`
   width: 90px;
   height: 90px;
@@ -102,7 +102,7 @@ export const Description = styled.p`
   }
 `;
 
-//private item card styling
+//privateItemCard styling
 export const PrivateItemCardWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -139,8 +139,7 @@ export const PrivateItemCardWrapper = styled.div`
   }
 `;
 
-//great offers card styling
-
+//greatOffersCard styling
 export const GreatOffersCardWrapper = styled.div`
   background-color: ${theme.color.common.light};
   box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
@@ -177,7 +176,7 @@ export const GreatOffersCardWrapper = styled.div`
   }
 `;
 
-export const IconWrapper = styled.div`
+export const GreatOffersCardIconWrapper = styled.div`
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
@@ -224,7 +223,7 @@ export const GreatOffersTitle = styled.h1`
   }
 `;
 
-//list styling
+//itemList styling
 export const ItemListWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -244,7 +243,7 @@ export const ItemListSubWrapper = styled.div`
   }
 `;
 
-//hp nutshell card styling
+//hpNutshellCard styling
 export const HpNutshellMainWrapper = styled.div`
   width: 300px;
   height: 300px;

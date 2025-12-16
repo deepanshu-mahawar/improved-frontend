@@ -1,9 +1,9 @@
 "use client";
 
 import theme from "@/theme/theme";
-import Image from "next/image";
 import styled from "styled-components";
 
+//testimonial styling
 export const TestimonialContainer = styled.div`
   width: 80%;
   display: flex;
@@ -26,7 +26,7 @@ export const TestimonialContainer = styled.div`
   }
 `;
 
-
+//faqs styling
 export const FaqContainer = styled.div`
   width: 65%;
   height: 100%;
@@ -43,8 +43,7 @@ export const FaqContainer = styled.div`
   }
 `;
 
-
-//certificate preview page styling
+//certificatePreview styling
 export const CertificateContainer = styled.div`
   display: flex;
   align-items: center;

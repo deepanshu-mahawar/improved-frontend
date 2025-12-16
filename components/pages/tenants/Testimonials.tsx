@@ -4,7 +4,7 @@ import { Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
-import "../../../app/globals.css"
+import "../../../app/globals.css";
 
 import { useTranslations } from "next-intl";
 

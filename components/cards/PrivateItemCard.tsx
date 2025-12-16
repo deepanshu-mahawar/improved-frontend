@@ -1,12 +1,7 @@
 import Image, { StaticImageData } from "next/image";
+import { ContentWrapper, Description, ImageWrapper, PrivateItemCardWrapper, Title } from "./styled";
 
-import {
-  ContentWrapper,
-  Description,
-  ImageWrapper,
-  PrivateItemCardWrapper,
-  Title,
-} from "./styled";
+
 
 interface PrivateItemCardProps {
   image: string | StaticImageData;

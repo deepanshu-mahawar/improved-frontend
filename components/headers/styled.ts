@@ -6,7 +6,7 @@ import styled from "styled-components";
 
 import theme from "@/theme/theme";
 
-export const MainWrapper = styled.div<{ $scrolling?: boolean }>(
+export const HeaderWrapper = styled.div<{ $scrolling?: boolean }>(
   ({ $scrolling }) => `
   background-color: ${theme.color.common.light};
   position: ${$scrolling ? "fixed" : "absolute"};
@@ -35,7 +35,7 @@ export const MainWrapper = styled.div<{ $scrolling?: boolean }>(
   }`
 );
 
-export const SubWrapper = styled.div`
+export const HeaderSubWrapper = styled.div`
   background-color: "transparent";
   width: 84%;
   display: flex;

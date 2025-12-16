@@ -1,10 +1,10 @@
 import React from "react";
 
 import {
+  GreatOffersCardIconWrapper,
   GreatOffersCardWrapper,
   GreatOffersContentWrapper,
   GreatOffersTitle,
-  IconWrapper,
 } from "./styled";
 import { ItemList } from "./ItemList";
 
@@ -21,9 +21,9 @@ export const GreatOffersCard = ({
 }: GreatOffersCardProps) => {
   return (
     <GreatOffersCardWrapper>
-      <IconWrapper>
+      <GreatOffersCardIconWrapper>
         <Icon className="logo" />
-      </IconWrapper>
+      </GreatOffersCardIconWrapper>
       <GreatOffersContentWrapper>
         <GreatOffersTitle>{title}</GreatOffersTitle>
         <ItemList content={description} />

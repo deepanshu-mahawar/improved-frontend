@@ -245,7 +245,7 @@
       "imprint": "Imprint"
     }
   },
-  "homeLandlordSecureQuickSection": {
+  "secureQuick": {
     "title": "Secure a quick 180° screening of global tenants for free.",
     "bulletPoint1": "Fast, efficient and fully automated process.",
     "bulletPoint2": "In-depth standardized screening and decision of global tenants.",
@@ -253,21 +253,21 @@
     "bulletPoint4": "No costs at all.",
     "buttonText": "Get Housingpass Now"
   },
-  "homeLandlordChallengesSection": {
+  "landlordChallenges": {
     "title": "Challenges as landlord or agent.",
     "bulletPoint1": "No international standards for applicants.",
     "bulletPoint2": "Different document types on tenant side.",
     "bulletPoint3": "Time consuming work that is not rewarded.",
     "bulletPoint4": "No fully enabled digital processes in the market."
   },
-  "homeLandlordEasyToUseSection": {
+  "easyToUse": {
     "title": "Easy to use and fast 4 step-process.",
     "bulletPoint1": "Ask tenant via email to complete HousingPassProfile.",
     "bulletPoint2": "Tenant provides different data points within minutes.",
     "bulletPoint3": "HousingPass analyses and ranks data with Certificate towards tenant.",
     "bulletPoint4": "Renter supplies HousingPass digitally through email or PDF to your ERP system."
   },
-  "homelandlordThisIsHowSection": {
+  "ThisIsHowForLandlord": {
     "title": "This is how HousingPass Works",
     "cards": {
       "card1": {
@@ -289,7 +289,7 @@
     },
     "buttonText": "Get Housingpass Now"
   },
-  "homeLandlordOnboardingCenterSection": {
+  "onboardingCenter": {
     "title": "Onboarding Center - How to start with us",
     "bulletPoint1": "Get an account and become a HousingPass Landlord / Partner.",
     "bulletPoint2": "Invite your tenants to HousingPass (via email, website widget, or member logo).",

@@ -4,9 +4,9 @@ import styled from "styled-components";
 
 import theme from "@/theme/theme";
 
-export const MainWrapper = styled("div")<{ $column?: boolean; $gap?: string }>(
-  ({ $column, $gap = "40px" }) => `
-  width: 90%;
+export const BulletPointsWrapper = styled("div")<{ $column?: boolean; $gap?: string, $width?: string }>(
+  ({ $column, $gap = "40px", $width }) => `
+  width: ${$width};
   display: grid;
   grid-template-columns: ${$column ? "1fr" : "repeat(2, 1fr)"};
   gap: ${$gap};
@@ -33,7 +33,7 @@ export const MainWrapper = styled("div")<{ $column?: boolean; $gap?: string }>(
 `
 );
 
-export const SubWrapper = styled.div`
+export const BulletPointsSubWrapper = styled.div`
   display: flex;
   align-items: center;
   gap: 10px;
@@ -41,7 +41,7 @@ export const SubWrapper = styled.div`
   height: fit-content;
 `;
 
-export const IconWrapper = styled.div`
+export const BulletPointsIconWrapper = styled.div`
   background-color: ${theme.color.background.iconBackground};
   display: flex;
   justify-content: center;

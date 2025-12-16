@@ -11,13 +11,13 @@ import MenuIcon from "@mui/icons-material/Menu";
 import {
   Image,
   LogoWrapper,
-  MainWrapper,
+  HeaderWrapper,
   Menu,
   MenuSubWrapper,
   MenuWrapper,
   ResponsiveMenuContainer,
   SignInButton,
-  SubWrapper,
+  HeaderSubWrapper,
 } from "./styled";
 
 import theme from "@/theme/theme";
@@ -60,8 +60,8 @@ const Header = () => {
   }, []);
 
   return (
-    <MainWrapper $scrolling={scrolling}>
-      <SubWrapper>
+    <HeaderWrapper $scrolling={scrolling}>
+      <HeaderSubWrapper>
         <LogoWrapper onClick={() => router.push("/")}>
           <Image src="/main-logo.png" alt="housingpass" className="logo" />
         </LogoWrapper>
@@ -128,8 +128,8 @@ const Header = () => {
             <Translator />
           </ResponsiveMenuContainer>
         </Drawer>
-      </SubWrapper>
-    </MainWrapper>
+      </HeaderSubWrapper>
+    </HeaderWrapper>
   );
 };
 

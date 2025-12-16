@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import styled from 'styled-components';
+import styled from "styled-components";
+import theme from "@/theme/theme";
 
-import theme from '@/theme/theme';
-
-export const MainWrapper = styled.div`
+//testimonial styling
+export const TestimonialWrapper = styled.div`
   display: flex;
   flex-direction: column;
   padding: 35px;
@@ -78,8 +78,7 @@ export const Message = styled.p`
   }
 `;
 
-
-// faq component styling
+// faq styling
 export const FaqMainWrapper = styled.div`
   background-color: ${theme.color.common.light};
   width: 100%;
@@ -142,9 +141,7 @@ export const AnswerWrapper = styled.div`
   width: 90%;
   max-height: 0;
   overflow: hidden;
-  transition:
-    max-height 200ms ease-in-out,
-    margin-top 200ms ease-in-out;
+  transition: max-height 200ms ease-in-out, margin-top 200ms ease-in-out;
   margin-top: 0;
 
   &.open {

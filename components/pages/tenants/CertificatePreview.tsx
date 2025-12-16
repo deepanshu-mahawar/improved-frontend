@@ -30,15 +30,14 @@ export const CertificatePreview = () => {
           </ImageContainer>
 
           <CertificateContentContainer>
-            <BulletPoints gap="16px" column text={bulletPoints} />
-
+            <BulletPoints gap="16px" column text={bulletPoints} width="100%" />
             <Button route="sign-in" buttonText={t("buttonText")} />
           </CertificateContentContainer>
         </CertificateSubContainer>
 
         <CertificateSubContainer>
           <CertificateContentContainer>
-            <BulletPoints gap="16px" column text={bulletPoints} />
+            <BulletPoints gap="16px" column text={bulletPoints} width="100%" />
           </CertificateContentContainer>
 
           <ImageContainer>

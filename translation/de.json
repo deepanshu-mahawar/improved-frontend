@@ -252,7 +252,7 @@
       "imprint": "Impressum"
     }
   },
-  "homeLandlordSecureQuickSection": {
+  "secureQuick": {
     "title": "Schnelles 180°-Screening von globalen Mietern – kostenlos.",
     "bulletPoint1": "Schneller, effizienter und vollständig automatisierter Prozess.",
     "bulletPoint2": "Tiefgehendes, standardisiertes Screening und Bewertung internationaler Mieter.",
@@ -260,21 +260,21 @@
     "bulletPoint4": "Komplett kostenfrei.",
     "buttonText": "Jetzt Housingpass erhalten"
   },
-  "homeLandlordChallengesSection": {
+  "landlordChallenges": {
     "title": "Herausforderungen als Vermieter oder Makler.",
     "bulletPoint1": "Keine internationalen Standards für Bewerber.",
     "bulletPoint2": "Unterschiedliche Dokumenttypen auf Mieterseite.",
     "bulletPoint3": "Zeitaufwändige Arbeit, die nicht belohnt wird.",
     "bulletPoint4": "Keine vollständig digitalen Prozesse auf dem Markt."
   },
-  "homeLandlordEasyToUseSection": {
+  "easyToUse": {
     "title": "Einfach zu bedienen und schneller 4-Schritte-Prozess.",
     "bulletPoint1": "Fordern Sie den Mieter per E-Mail auf, das HousingPass-Profil auszufüllen.",
     "bulletPoint2": "Der Mieter liefert innerhalb weniger Minuten verschiedene Datenpunkte.",
     "bulletPoint3": "HousingPass analysiert und bewertet die Daten mit einem Zertifikat für den Mieter.",
     "bulletPoint4": "Der Mieter übermittelt den HousingPass digital per E-Mail oder PDF an Ihr ERP-System."
   },
-  "homelandlordThisIsHowSection": {
+  "ThisIsHowForLandlord": {
     "title": "So funktioniert HousingPass",
     "cards": {
       "card1": {
@@ -296,7 +296,7 @@
     },
     "buttonText": "Jetzt HousingPass erhalten"
   },
-  "homeLandlordOnboardingCenterSection": {
+  "onboardingCenter": {
     "title": "Onboarding Center - So starten Sie mit uns",
     "bulletPoint1": "Erstellen Sie ein Konto und werden Sie HousingPass-Vermieter oder -Partner.",
     "bulletPoint2": "Laden Sie Ihre Mieter zu HousingPass ein (per E-Mail, Website-Widget oder Partner-Logo).",

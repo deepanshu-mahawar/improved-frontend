@@ -1,12 +1,11 @@
 import { Rating } from "@mui/material";
-
 import {
   FullName,
-  MainWrapper,
   Message,
   NameSubWrapper,
   NameWrapper,
   ShortName,
+  TestimonialWrapper,
 } from "./styled";
 
 interface TestimonialsProps {
@@ -21,7 +20,7 @@ export const Testimonial = ({
   rating = 3,
 }: TestimonialsProps) => {
   return (
-    <MainWrapper>
+    <TestimonialWrapper>
       <NameWrapper>
         <NameSubWrapper>
           <ShortName>
@@ -39,6 +38,6 @@ export const Testimonial = ({
         />
       </NameWrapper>
       <Message>{message}</Message>
-    </MainWrapper>
+    </TestimonialWrapper>
   );
 };

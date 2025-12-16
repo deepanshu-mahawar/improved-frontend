@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 import theme from "@/theme/theme";
 
-export const MainWrapper = styled.div`
+export const ButtonWrapper = styled.div`
   width: fit-content;
   height: fit-content;
   display: flex;

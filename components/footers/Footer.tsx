@@ -8,10 +8,10 @@ import {
   Image,
   Label,
   LogoWrapper,
-  MainWrapper,
+  FooterWrapper,
   Menu,
   Question,
-  SubWrapper,
+  FooterSubWrapper,
 } from "./styled";
 
 import { useTranslations } from "next-intl";
@@ -31,8 +31,8 @@ export const Footer = () => {
       </CookieSubContainer>
       </CookieContainer> */}
 
-      <MainWrapper>
-        <SubWrapper>
+      <FooterWrapper>
+        <FooterSubWrapper>
           <ContentWrapper>
             <LogoWrapper>
               <Image src="/white-logo.png" alt="housingpass" className="logo" />
@@ -63,8 +63,8 @@ export const Footer = () => {
             <Label>{t("customerCareLabel")}</Label>
             <Menu href="/imprint">{t("customerCareMenu.imprint")}</Menu>
           </ContentWrapper>
-        </SubWrapper>
-      </MainWrapper>
+        </FooterSubWrapper>
+      </FooterWrapper>
     </>
   );
 };
